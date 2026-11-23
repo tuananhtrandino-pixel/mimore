@@ -1,0 +1,145 @@
+
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>Trải nghiệm sản phẩm | BOL - Box of Love</title>
+
+  <link rel="stylesheet" href="styles.css">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+  <link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600;700&family=Playfair+Display:wght@500;600;700&display=swap" rel="stylesheet">
+
+  <script src="common.js" defer></script>
+</head>
+
+<body data-page="vr">
+
+  <!-- HEADER -->
+  <div id="site-header"></div>
+
+  <main>
+
+    <!-- TIÊU ĐỀ -->
+    <section class="vr-hero">
+      <div class="vr-container">
+        <p class="eyebrow">DISCOVER BOL COLLECTION</p>
+        <h1>Trải nghiệm sản phẩm</h1>
+        <p>Khám phá từng món quà theo một cách hoàn toàn mới.</p>
+      </div>
+    </section>
+
+    <!-- KHU VỰC CHỌN SẢN PHẨM -->
+    <section class="vr-selector">
+      <div class="vr-container">
+
+        <div class="vr-selector-heading">
+          <h2>Khám phá bộ sưu tập</h2>
+          <p>Lựa chọn sản phẩm bạn muốn trải nghiệm.</p>
+        </div>
+
+        <div class="vr-selector-row">
+
+          <div class="vr-field">
+            <label for="vrCategory">Danh mục sản phẩm</label>
+            <select id="vrCategory">
+              <option value="">Tất cả danh mục</option>
+              <option value="Hoa len & hoa giấy">Hoa len & hoa giấy</option>
+              <option value="Hộp quà & set quà">Hộp quà & set quà</option>
+              <option value="Thiệp & lời nhắn">Thiệp & lời nhắn</option>
+              <option value="DIY Kit">DIY Kit</option>
+              <option value="Đồ handmade & trang trí">Đồ handmade & trang trí</option>
+            </select>
+          </div>
+
+          <div class="vr-field">
+            <label for="vrProduct">Chọn sản phẩm</label>
+            <select id="vrProduct">
+              <option value="">Đang tải sản phẩm...</option>
+            </select>
+          </div>
+
+          <div class="vr-field">
+            <label for="vrMode">Chế độ trải nghiệm</label>
+            <select id="vrMode">
+              <option value="3d">Xem sản phẩm 3D</option>
+              <option value="ar">Trải nghiệm AR</option>
+              <option value="vr">Không gian VR</option>
+            </select>
+          </div>
+
+        </div>
+      </div>
+    </section>
+
+    <!-- KHU VỰC TRẢI NGHIỆM -->
+    <section class="vr-viewer-section">
+      <div class="vr-container">
+
+        <div class="vr-viewer" id="vrViewer">
+
+          <div class="vr-placeholder" id="vrPlaceholder">
+            <span class="vr-placeholder-icon">✿</span>
+            <h3>Không gian trải nghiệm BOL</h3>
+            <p>Chọn một sản phẩm phía trên để bắt đầu khám phá.</p>
+          </div>
+
+          <model-viewer
+            id="productModel"
+            alt="Mô hình sản phẩm BOL"
+            camera-controls
+            auto-rotate
+            shadow-intensity="1"
+            ar
+            ar-modes="webxr scene-viewer quick-look"
+            style="display:none;">
+          </model-viewer>
+
+        </div>
+
+        <div class="vr-controls">
+          <span>✧ Kéo để xoay sản phẩm · Cuộn để phóng to</span>
+
+          <button type="button" id="vrReset">
+            Đặt lại góc nhìn
+          </button>
+        </div>
+
+      </div>
+    </section>
+
+    <!-- THÔNG TIN SẢN PHẨM -->
+    <section class="vr-product-info">
+      <div class="vr-container">
+
+        <div class="vr-info-content">
+
+  <div class="vr-info-content">
+
+  <a href="cuahang.html" class="vr-explore-link">
+    Khám phá các sản phẩm này
+    <span>→</span>
+  </a>
+
+</div>
+    </section>
+
+  </main>
+
+  <!-- FOOTER -->
+  <div id="site-footer"></div>
+
+  <div id="toast" class="toast" role="status" aria-live="polite"></div>
+
+  <!-- THƯ VIỆN HIỂN THỊ 3D -->
+  <script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
+
+  <!-- XỬ LÝ TRẢI NGHIỆM VÀ GIỎ HÀNG -->
+  <script src="sanphamvr.js"></script>
+
+</body>
+</html>

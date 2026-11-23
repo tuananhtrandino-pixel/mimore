@@ -1,0 +1,197 @@
+
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>Liên hệ | BOL - Box of Love</title>
+
+  <link rel="stylesheet" href="styles.css">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+  <link
+    href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600;700&family=Playfair+Display:wght@500;600;700&display=swap"
+    rel="stylesheet"
+  >
+
+  <script src="common.js" defer></script>
+</head>
+
+<body data-page="contact">
+
+  <!-- HEADER -->
+  <div id="site-header"></div>
+
+  <main>
+
+    <!-- TIÊU ĐỀ TRANG -->
+    <section class="contact-hero">
+      <div class="contact-container">
+
+        <h1>Gửi lời nhắn từ trái tim</h1>
+
+        <p class="contact-intro">
+          Bạn cần tư vấn chọn quà, muốn hỏi thêm về bộ DIY hoặc có yêu cầu riêng cho món
+          quà của mình? Hãy gửi lời nhắn cho BOL.
+        </p>
+
+        <!-- FORM LIÊN HỆ -->
+        <form id="contactForm" class="contact-form">
+
+          <div class="contact-name-row">
+
+            <div class="contact-field">
+              <label for="lastName">Họ *</label>
+              <input
+                type="text"
+                id="lastName"
+                name="lastName"
+                placeholder=" "
+                required
+              >
+            </div>
+
+            <div class="contact-field">
+              <label for="firstName">Tên *</label>
+              <input
+                type="text"
+                id="firstName"
+                name="firstName"
+                placeholder=" "
+                required
+              >
+            </div>
+
+          </div>
+
+          <div class="contact-field">
+            <label for="contactInfo">
+              Email hoặc số điện thoại *
+            </label>
+
+            <input
+              type="text"
+              id="contactInfo"
+              name="contactInfo"
+              placeholder="Địa chỉ email của bạn"
+              required
+            >
+          </div>
+
+          <div class="contact-field">
+            <label for="contactSubject">Chủ đề liên hệ *</label>
+
+            <select
+              id="contactSubject"
+              name="subject"
+              required
+            >
+              <option value="" selected disabled></option>
+              <option value="Tư vấn chọn quà">Tư vấn chọn quà</option>
+              <option value="Hỏi về sản phẩm">Hỏi về sản phẩm</option>
+              <option value="Hỏi về bộ DIY">Hỏi về bộ DIY</option>
+              <option value="Yêu cầu cá nhân hóa">Yêu cầu cá nhân hóa</option>
+              <option value="Đơn hàng và thanh toán">Đơn hàng và thanh toán</option>
+              <option value="Khác">Khác</option>
+            </select>
+          </div>
+
+          <div class="contact-field contact-message-field">
+            <label for="contactMessage">Nội dung *</label>
+
+            <textarea
+              id="contactMessage"
+              name="message"
+              rows="3"
+              placeholder="Nhập lời nhắn của bạn tại đây..."
+              required
+            ></textarea>
+          </div>
+
+          <button type="submit" class="contact-submit">
+            Gửi lời nhắn
+          </button>
+
+          <p id="contactSuccess" class="contact-success" hidden>
+            ♡ Cảm ơn bạn đã gửi lời nhắn! BOL đã ghi nhận thông tin của bạn.
+          </p>
+
+        </form>
+
+      </div>
+    </section>
+
+  </main>
+
+  <!-- FOOTER -->
+  <div id="site-footer"></div>
+
+  <div id="toast" class="toast" role="status" aria-live="polite"></div>
+
+  <!-- XỬ LÝ FORM -->
+  <script>
+    const contactForm = document.getElementById("contactForm");
+
+    contactForm.addEventListener("submit", function(event) {
+      event.preventDefault();
+
+      const emailOrPhone =
+        document.getElementById("contactInfo").value.trim();
+
+      const emailValid =
+        /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(emailOrPhone);
+
+      const phoneValid =
+        /^[0-9+\s().-]{9,15}$/.test(emailOrPhone);
+
+      if (!emailValid && !phoneValid) {
+        alert("Vui lòng nhập email hoặc số điện thoại hợp lệ.");
+        return;
+      }
+
+      const contactData = {
+        lastName: document.getElementById("lastName").value.trim(),
+        firstName: document.getElementById("firstName").value.trim(),
+        contactInfo: emailOrPhone,
+        subject: document.getElementById("contactSubject").value,
+        message: document.getElementById("contactMessage").value.trim(),
+        createdAt: new Date().toLocaleString("vi-VN")
+      };
+
+      let messages = [];
+
+      try {
+        messages = JSON.parse(
+          localStorage.getItem("bol-contact-messages") || "[]"
+        );
+
+        if (!Array.isArray(messages)) {
+          messages = [];
+        }
+      } catch (error) {
+        messages = [];
+      }
+
+      messages.push(contactData);
+
+      localStorage.setItem(
+        "bol-contact-messages",
+        JSON.stringify(messages)
+      );
+
+      document.getElementById("contactSuccess").hidden = false;
+
+      contactForm.reset();
+
+      document.getElementById("contactSuccess").scrollIntoView({
+        behavior: "smooth",
+        block: "center"
+      });
+    });
+  </script>
+
+</body>
+</html>

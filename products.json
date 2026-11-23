@@ -1,0 +1,5547 @@
+[
+  {
+    "id": "BOL-HM-001",
+    "name": "Cốc gốm vẽ tay",
+    "price": 159000,
+    "category": "Đồ handmade & trang trí",
+    "subcategory": "Cốc, ly & phụ kiện",
+    "tags": [
+      "Đồ handmade & trang trí",
+      "Handmade làm sẵn",
+      "cốc",
+      "gốm",
+      "quà sinh nhật",
+      "quà tặng",
+      "Sinh nhật",
+      "Đồ làm sẵn"
+    ],
+    "occasions": [
+      "Sinh nhật"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Cốc gốm vẽ tay là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, cốc, gốm, quà sinh nhật, quà tặng, Sinh nhật, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-002",
+    "name": "Cốc sứ trang trí hoa",
+    "price": 189000,
+    "category": "Đồ handmade & trang trí",
+    "subcategory": "Cốc, ly & phụ kiện",
+    "tags": [
+      "Đồ handmade & trang trí",
+      "Handmade làm sẵn",
+      "cốc",
+      "hoa",
+      "quà sinh nhật",
+      "Đồ làm sẵn"
+    ],
+    "occasions": [
+      "Sinh nhật"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Cốc sứ trang trí hoa là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, cốc, hoa, quà sinh nhật, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-003",
+    "name": "Cốc sứ in hình thú cưng",
+    "price": 229000,
+    "category": "Đồ handmade & trang trí",
+    "subcategory": "Cốc, ly & phụ kiện",
+    "tags": [
+      "Đồ handmade & trang trí",
+      "Handmade làm sẵn",
+      "cốc",
+      "thú cưng",
+      "cá nhân hóa",
+      "Đồ làm sẵn"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Cảm ơn"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Cốc sứ in hình thú cưng là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, cốc, thú cưng, cá nhân hóa, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-004",
+    "name": "Cốc đất sét tạo hình dễ thương",
+    "price": 279000,
+    "category": "Đồ handmade & trang trí",
+    "subcategory": "Cốc, ly & phụ kiện",
+    "tags": [
+      "Đồ handmade & trang trí",
+      "Handmade làm sẵn",
+      "cốc",
+      "đất sét",
+      "dễ thương",
+      "Đồ làm sẵn"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Cảm ơn"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Cốc đất sét tạo hình dễ thương là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, cốc, đất sét, dễ thương, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-005",
+    "name": "Cốc đôi dành cho cặp đôi",
+    "price": 329000,
+    "category": "Đồ handmade & trang trí",
+    "subcategory": "Cốc, ly & phụ kiện",
+    "tags": [
+      "Đồ handmade & trang trí",
+      "Handmade làm sẵn",
+      "cốc đôi",
+      "tình yêu",
+      "Valentine",
+      "kỷ niệm",
+      "Đồ làm sẵn",
+      "Quà đôi / Kỷ niệm"
+    ],
+    "occasions": [
+      "Valentine",
+      "Kỷ niệm"
+    ],
+    "recipients": [
+      "Người yêu"
+    ],
+    "description": "Cốc đôi dành cho cặp đôi là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, cốc đôi, tình yêu, Valentine, kỷ niệm, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-006",
+    "name": "Cốc gốm phong cách vintage",
+    "price": 129000,
+    "category": "Đồ handmade & trang trí",
+    "subcategory": "Cốc, ly & phụ kiện",
+    "tags": [
+      "Đồ handmade & trang trí",
+      "Handmade làm sẵn",
+      "cốc",
+      "vintage",
+      "quà sinh nhật",
+      "Đồ làm sẵn"
+    ],
+    "occasions": [
+      "Sinh nhật"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Cốc gốm phong cách vintage là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, cốc, vintage, quà sinh nhật, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-007",
+    "name": "Cốc có quai hình trái tim",
+    "price": 159000,
+    "category": "Đồ handmade & trang trí",
+    "subcategory": "Cốc, ly & phụ kiện",
+    "tags": [
+      "Đồ handmade & trang trí",
+      "Handmade làm sẵn",
+      "cốc",
+      "trái tim",
+      "Valentine",
+      "Đồ làm sẵn"
+    ],
+    "occasions": [
+      "Valentine"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Cốc có quai hình trái tim là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, cốc, trái tim, Valentine, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-008",
+    "name": "Ly thủy tinh vẽ tay",
+    "price": 189000,
+    "category": "Đồ handmade & trang trí",
+    "subcategory": "Cốc, ly & phụ kiện",
+    "tags": [
+      "Đồ handmade & trang trí",
+      "Handmade làm sẵn",
+      "ly",
+      "thủy tinh",
+      "quà tặng",
+      "Đồ làm sẵn"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Cảm ơn"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Ly thủy tinh vẽ tay là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, ly, thủy tinh, quà tặng, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-009",
+    "name": "Ly thủy tinh đính charm",
+    "price": 229000,
+    "category": "Đồ handmade & trang trí",
+    "subcategory": "Cốc, ly & phụ kiện",
+    "tags": [
+      "Đồ handmade & trang trí",
+      "Handmade làm sẵn",
+      "ly",
+      "charm",
+      "dễ thương",
+      "Đồ làm sẵn"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Cảm ơn"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Ly thủy tinh đính charm là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, ly, charm, dễ thương, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-010",
+    "name": "Cốc nến handmade bằng gốm",
+    "price": 279000,
+    "category": "Đồ handmade & trang trí",
+    "subcategory": "Cốc, ly & phụ kiện",
+    "tags": [
+      "Đồ handmade & trang trí",
+      "Handmade làm sẵn",
+      "cốc gốm",
+      "nến",
+      "quà tặng",
+      "Đồ làm sẵn"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Cảm ơn"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Cốc nến handmade bằng gốm là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, cốc gốm, nến, quà tặng, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-011",
+    "name": "Đế lót cốc bằng len",
+    "price": 329000,
+    "category": "Đồ handmade & trang trí",
+    "subcategory": "Cốc, ly & phụ kiện",
+    "tags": [
+      "Đồ handmade & trang trí",
+      "Handmade làm sẵn",
+      "len",
+      "decor",
+      "quà tặng",
+      "Đồ làm sẵn",
+      "Đồ len"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Cảm ơn"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Đế lót cốc bằng len là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, len, decor, quà tặng, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-012",
+    "name": "Đế lót cốc bằng gỗ khắc chữ",
+    "price": 129000,
+    "category": "Đồ handmade & trang trí",
+    "subcategory": "Cốc, ly & phụ kiện",
+    "tags": [
+      "Đồ handmade & trang trí",
+      "Handmade làm sẵn",
+      "gỗ",
+      "cá nhân hóa",
+      "quà sinh nhật",
+      "Đồ làm sẵn",
+      "Trang trí"
+    ],
+    "occasions": [
+      "Sinh nhật"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Đế lót cốc bằng gỗ khắc chữ là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, gỗ, cá nhân hóa, quà sinh nhật, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-013",
+    "name": "Đế lót cốc bằng đất sét",
+    "price": 159000,
+    "category": "Đồ handmade & trang trí",
+    "subcategory": "Cốc, ly & phụ kiện",
+    "tags": [
+      "Đồ handmade & trang trí",
+      "Handmade làm sẵn",
+      "đất sét",
+      "decor",
+      "quà tặng",
+      "Đồ làm sẵn"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Cảm ơn"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Đế lót cốc bằng đất sét là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, đất sét, decor, quà tặng, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-014",
+    "name": "Ống hút trang trí charm",
+    "price": 129000,
+    "category": "Đồ handmade & trang trí",
+    "subcategory": "Cốc, ly & phụ kiện",
+    "tags": [
+      "Đồ handmade & trang trí",
+      "Handmade làm sẵn",
+      "phụ kiện",
+      "charm",
+      "quà tặng",
+      "Đồ làm sẵn"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Cảm ơn"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Ống hút trang trí charm là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, phụ kiện, charm, quà tặng, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-015",
+    "name": "Bộ cốc và đế lót cốc handmade",
+    "price": 229000,
+    "category": "Đồ handmade & trang trí",
+    "subcategory": "Cốc, ly & phụ kiện",
+    "tags": [
+      "Đồ handmade & trang trí",
+      "Handmade làm sẵn",
+      "set quà",
+      "cốc",
+      "tân gia",
+      "sinh nhật",
+      "Tết",
+      "Đồ làm sẵn"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Tân gia"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Bộ cốc và đế lót cốc handmade là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, set quà, cốc, tân gia, sinh nhật, Tết, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-016",
+    "name": "Thiệp sinh nhật 3D",
+    "price": 29000,
+    "category": "Thiệp & lời nhắn",
+    "subcategory": "Thiệp, album & lưu niệm",
+    "tags": [
+      "Thiệp & lời nhắn",
+      "Handmade làm sẵn",
+      "thiệp",
+      "sinh nhật",
+      "Đồ làm sẵn"
+    ],
+    "occasions": [
+      "Sinh nhật"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Thiệp sinh nhật 3D là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, thiệp, sinh nhật, Sinh nhật, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-017",
+    "name": "Thiệp nổi hoa giấy",
+    "price": 159000,
+    "category": "Thiệp & lời nhắn",
+    "subcategory": "Thiệp, album & lưu niệm",
+    "tags": [
+      "Thiệp & lời nhắn",
+      "Handmade làm sẵn",
+      "thiệp",
+      "hoa giấy",
+      "sinh nhật",
+      "8/3",
+      "Đồ làm sẵn"
+    ],
+    "occasions": [
+      "Sinh nhật"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Thiệp nổi hoa giấy là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, thiệp, hoa giấy, sinh nhật, 8/3, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-018",
+    "name": "Thiệp trái tim gấp lớp",
+    "price": 49000,
+    "category": "Thiệp & lời nhắn",
+    "subcategory": "Thiệp, album & lưu niệm",
+    "tags": [
+      "Thiệp & lời nhắn",
+      "Handmade làm sẵn",
+      "thiệp",
+      "trái tim",
+      "Valentine",
+      "Đồ làm sẵn"
+    ],
+    "occasions": [
+      "Valentine"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Thiệp trái tim gấp lớp là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, thiệp, trái tim, Valentine, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-019",
+    "name": "Thiệp viết tay cá nhân hóa",
+    "price": 69000,
+    "category": "Thiệp & lời nhắn",
+    "subcategory": "Thiệp, album & lưu niệm",
+    "tags": [
+      "Thiệp & lời nhắn",
+      "Handmade làm sẵn",
+      "thiệp",
+      "cá nhân hóa",
+      "sinh nhật",
+      "Đồ làm sẵn"
+    ],
+    "occasions": [
+      "Sinh nhật"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Thiệp viết tay cá nhân hóa là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, thiệp, cá nhân hóa, sinh nhật, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-020",
+    "name": "Thiệp ảnh polaroid",
+    "price": 89000,
+    "category": "Thiệp & lời nhắn",
+    "subcategory": "Thiệp, album & lưu niệm",
+    "tags": [
+      "Thiệp & lời nhắn",
+      "Handmade làm sẵn",
+      "thiệp",
+      "ảnh",
+      "kỷ niệm",
+      "Đồ làm sẵn"
+    ],
+    "occasions": [
+      "Kỷ niệm"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Thiệp ảnh polaroid là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, thiệp, ảnh, kỷ niệm, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-021",
+    "name": "Thiệp ép hoa khô",
+    "price": 69000,
+    "category": "Thiệp & lời nhắn",
+    "subcategory": "Thiệp, album & lưu niệm",
+    "tags": [
+      "Thiệp & lời nhắn",
+      "Handmade làm sẵn",
+      "thiệp",
+      "hoa khô",
+      "quà tặng",
+      "Đồ làm sẵn"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Cảm ơn"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Thiệp ép hoa khô là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, thiệp, hoa khô, quà tặng, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-022",
+    "name": "Thiệp Valentine",
+    "price": 129000,
+    "category": "Thiệp & lời nhắn",
+    "subcategory": "Thiệp, album & lưu niệm",
+    "tags": [
+      "Thiệp & lời nhắn",
+      "Handmade làm sẵn",
+      "thiệp",
+      "Valentine",
+      "tình yêu",
+      "Đồ làm sẵn",
+      "Đồ len"
+    ],
+    "occasions": [
+      "Valentine"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Thiệp Valentine là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, thiệp, Valentine, tình yêu, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-023",
+    "name": "Thiệp tốt nghiệp",
+    "price": 149000,
+    "category": "Thiệp & lời nhắn",
+    "subcategory": "Thiệp, album & lưu niệm",
+    "tags": [
+      "Thiệp & lời nhắn",
+      "Handmade làm sẵn",
+      "thiệp",
+      "tốt nghiệp",
+      "Đồ làm sẵn"
+    ],
+    "occasions": [
+      "Tốt nghiệp"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Thiệp tốt nghiệp là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, thiệp, tốt nghiệp, Tốt nghiệp, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-024",
+    "name": "Thiệp cảm ơn",
+    "price": 29000,
+    "category": "Thiệp & lời nhắn",
+    "subcategory": "Thiệp, album & lưu niệm",
+    "tags": [
+      "Thiệp & lời nhắn",
+      "Handmade làm sẵn",
+      "thiệp",
+      "cảm ơn",
+      "Đồ làm sẵn"
+    ],
+    "occasions": [
+      "Cảm ơn"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Thiệp cảm ơn là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, thiệp, cảm ơn, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-025",
+    "name": "Thiệp chúc mừng handmade",
+    "price": 39000,
+    "category": "Thiệp & lời nhắn",
+    "subcategory": "Thiệp, album & lưu niệm",
+    "tags": [
+      "Thiệp & lời nhắn",
+      "Handmade làm sẵn",
+      "thiệp",
+      "chúc mừng",
+      "Đồ làm sẵn"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Cảm ơn"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Thiệp chúc mừng handmade là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, thiệp, chúc mừng, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-026",
+    "name": "Scrapbook kỷ niệm tình yêu",
+    "price": 249000,
+    "category": "Thiệp & lời nhắn",
+    "subcategory": "Thiệp, album & lưu niệm",
+    "tags": [
+      "Thiệp & lời nhắn",
+      "Handmade làm sẵn",
+      "scrapbook",
+      "tình yêu",
+      "kỷ niệm",
+      "Đồ làm sẵn",
+      "Quà đôi / Kỷ niệm"
+    ],
+    "occasions": [
+      "Kỷ niệm"
+    ],
+    "recipients": [
+      "Người yêu"
+    ],
+    "description": "Scrapbook kỷ niệm tình yêu là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, scrapbook, tình yêu, kỷ niệm, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-027",
+    "name": "Album ảnh mini handmade",
+    "price": 299000,
+    "category": "Thiệp & lời nhắn",
+    "subcategory": "Thiệp, album & lưu niệm",
+    "tags": [
+      "Thiệp & lời nhắn",
+      "Handmade làm sẵn",
+      "album ảnh",
+      "kỷ niệm",
+      "sinh nhật",
+      "Đồ làm sẵn"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Kỷ niệm"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Album ảnh mini handmade là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, album ảnh, kỷ niệm, sinh nhật, Sinh nhật, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-028",
+    "name": "Hộp ảnh kéo dài Explosion Box",
+    "price": 89000,
+    "category": "Thiệp & lời nhắn",
+    "subcategory": "Thiệp, album & lưu niệm",
+    "tags": [
+      "Thiệp & lời nhắn",
+      "Handmade làm sẵn",
+      "hộp quà",
+      "ảnh",
+      "sinh nhật",
+      "Valentine",
+      "Đồ làm sẵn"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Valentine"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Hộp ảnh kéo dài Explosion Box là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, hộp quà, ảnh, sinh nhật, Valentine, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-029",
+    "name": "Sổ lưu niệm trang trí tay",
+    "price": 109000,
+    "category": "Thiệp & lời nhắn",
+    "subcategory": "Thiệp, album & lưu niệm",
+    "tags": [
+      "Thiệp & lời nhắn",
+      "Handmade làm sẵn",
+      "sổ",
+      "scrapbook",
+      "tốt nghiệp",
+      "Đồ làm sẵn"
+    ],
+    "occasions": [
+      "Tốt nghiệp"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Sổ lưu niệm trang trí tay là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, sổ, scrapbook, tốt nghiệp, Tốt nghiệp, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-030",
+    "name": "Bookmark giấy vẽ tay",
+    "price": 129000,
+    "category": "Thiệp & lời nhắn",
+    "subcategory": "Thiệp, album & lưu niệm",
+    "tags": [
+      "Thiệp & lời nhắn",
+      "Handmade làm sẵn",
+      "bookmark",
+      "giấy",
+      "quà tặng",
+      "Đồ làm sẵn"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Cảm ơn"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Bookmark giấy vẽ tay là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, bookmark, giấy, quà tặng, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "assets/dried-flower-bookmark.jpg",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-031",
+    "name": "Ngựa gỗ mini trang trí",
+    "price": 159000,
+    "category": "Đồ handmade & trang trí",
+    "subcategory": "Đồ handmade khác",
+    "tags": [
+      "Đồ handmade & trang trí",
+      "Handmade làm sẵn",
+      "gỗ",
+      "ngựa gỗ",
+      "decor",
+      "quà tặng",
+      "Đồ làm sẵn",
+      "Trang trí"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Cảm ơn"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Ngựa gỗ mini trang trí là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, gỗ, ngựa gỗ, decor, quà tặng, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-032",
+    "name": "Ngựa gỗ bập bênh trang trí",
+    "price": 199000,
+    "category": "Đồ handmade & trang trí",
+    "subcategory": "Đồ handmade khác",
+    "tags": [
+      "Đồ handmade & trang trí",
+      "Handmade làm sẵn",
+      "gỗ",
+      "ngựa gỗ",
+      "decor",
+      "Đồ làm sẵn",
+      "Trang trí"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Cảm ơn"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Ngựa gỗ bập bênh trang trí là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, gỗ, ngựa gỗ, decor, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-033",
+    "name": "Mô hình nhà gỗ mini",
+    "price": 39000,
+    "category": "Đồ handmade & trang trí",
+    "subcategory": "Đồ trang trí & mô hình",
+    "tags": [
+      "Đồ handmade & trang trí",
+      "Handmade làm sẵn",
+      "gỗ",
+      "mô hình",
+      "decor",
+      "Đồ làm sẵn",
+      "Trang trí"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Cảm ơn"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Mô hình nhà gỗ mini là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, gỗ, mô hình, decor, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-034",
+    "name": "Khung ảnh gỗ khắc tên",
+    "price": 279000,
+    "category": "Đồ handmade & trang trí",
+    "subcategory": "Quà cá nhân hóa",
+    "tags": [
+      "Đồ handmade & trang trí",
+      "Handmade làm sẵn",
+      "gỗ",
+      "khung ảnh",
+      "cá nhân hóa",
+      "Đồ làm sẵn",
+      "Trang trí"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Cảm ơn"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Khung ảnh gỗ khắc tên là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, gỗ, khung ảnh, cá nhân hóa, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-035",
+    "name": "Móc khóa gỗ khắc chữ",
+    "price": 69000,
+    "category": "Đồ handmade & trang trí",
+    "subcategory": "Quà cá nhân hóa",
+    "tags": [
+      "Đồ handmade & trang trí",
+      "Handmade làm sẵn",
+      "gỗ",
+      "móc khóa",
+      "cá nhân hóa",
+      "Đồ làm sẵn",
+      "Trang trí"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Cảm ơn"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Móc khóa gỗ khắc chữ là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, gỗ, móc khóa, cá nhân hóa, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-036",
+    "name": "Hộp nhạc bằng gỗ",
+    "price": 129000,
+    "category": "Đồ handmade & trang trí",
+    "subcategory": "Đồ handmade khác",
+    "tags": [
+      "Đồ handmade & trang trí",
+      "Handmade làm sẵn",
+      "gỗ",
+      "hộp nhạc",
+      "kỷ niệm",
+      "Đồ làm sẵn",
+      "Trang trí"
+    ],
+    "occasions": [
+      "Kỷ niệm"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Hộp nhạc bằng gỗ là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, gỗ, hộp nhạc, kỷ niệm, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-037",
+    "name": "Hộp đựng trang sức bằng gỗ",
+    "price": 109000,
+    "category": "Đồ handmade & trang trí",
+    "subcategory": "Đồ trang trí & mô hình",
+    "tags": [
+      "Đồ handmade & trang trí",
+      "Handmade làm sẵn",
+      "gỗ",
+      "trang sức",
+      "quà tặng",
+      "Đồ làm sẵn",
+      "Trang trí"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Cảm ơn"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Hộp đựng trang sức bằng gỗ là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, gỗ, trang sức, quà tặng, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-038",
+    "name": "Hộp quà gỗ khắc thông điệp",
+    "price": 129000,
+    "category": "Hộp quà & set quà",
+    "subcategory": "Hộp quà & set quà",
+    "tags": [
+      "Hộp quà & set quà",
+      "Handmade làm sẵn",
+      "gỗ",
+      "hộp quà",
+      "cá nhân hóa",
+      "Tết",
+      "Đồ làm sẵn",
+      "Trang trí"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Cảm ơn"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Hộp quà gỗ khắc thông điệp là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, gỗ, hộp quà, cá nhân hóa, Tết, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-039",
+    "name": "Bảng tên phòng bằng gỗ",
+    "price": 149000,
+    "category": "Đồ handmade & trang trí",
+    "subcategory": "Đồ handmade khác",
+    "tags": [
+      "Đồ handmade & trang trí",
+      "Handmade làm sẵn",
+      "gỗ",
+      "decor",
+      "cá nhân hóa",
+      "Đồ làm sẵn",
+      "Trang trí"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Cảm ơn"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Bảng tên phòng bằng gỗ là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, gỗ, decor, cá nhân hóa, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-040",
+    "name": "Tranh gỗ ghép hình",
+    "price": 29000,
+    "category": "Đồ handmade & trang trí",
+    "subcategory": "Đồ trang trí & mô hình",
+    "tags": [
+      "Đồ handmade & trang trí",
+      "Handmade làm sẵn",
+      "gỗ",
+      "tranh",
+      "decor",
+      "Đồ làm sẵn",
+      "Trang trí"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Cảm ơn"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Tranh gỗ ghép hình là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, gỗ, tranh, decor, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-041",
+    "name": "Đế điện thoại bằng gỗ",
+    "price": 39000,
+    "category": "Đồ handmade & trang trí",
+    "subcategory": "Đồ handmade khác",
+    "tags": [
+      "Đồ handmade & trang trí",
+      "Handmade làm sẵn",
+      "gỗ",
+      "phụ kiện",
+      "quà tặng",
+      "Đồ làm sẵn",
+      "Trang trí"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Cảm ơn"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Đế điện thoại bằng gỗ là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, gỗ, phụ kiện, quà tặng, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-042",
+    "name": "Đèn ngủ khắc gỗ",
+    "price": 129000,
+    "category": "Đồ handmade & trang trí",
+    "subcategory": "Đồ trang trí & mô hình",
+    "tags": [
+      "Đồ handmade & trang trí",
+      "Handmade làm sẵn",
+      "gỗ",
+      "đèn ngủ",
+      "decor",
+      "Đồ làm sẵn",
+      "Trang trí"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Cảm ơn"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Đèn ngủ khắc gỗ là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, gỗ, đèn ngủ, decor, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-043",
+    "name": "Mô hình xe gỗ mini",
+    "price": 69000,
+    "category": "Đồ handmade & trang trí",
+    "subcategory": "Đồ trang trí & mô hình",
+    "tags": [
+      "Đồ handmade & trang trí",
+      "Handmade làm sẵn",
+      "gỗ",
+      "mô hình",
+      "quà tặng",
+      "Đồ làm sẵn",
+      "Trang trí"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Cảm ơn"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Mô hình xe gỗ mini là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, gỗ, mô hình, quà tặng, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-044",
+    "name": "Móc treo chìa khóa bằng gỗ",
+    "price": 89000,
+    "category": "Đồ handmade & trang trí",
+    "subcategory": "Đồ handmade khác",
+    "tags": [
+      "Đồ handmade & trang trí",
+      "Handmade làm sẵn",
+      "gỗ",
+      "decor",
+      "tân gia",
+      "Đồ làm sẵn",
+      "Trang trí"
+    ],
+    "occasions": [
+      "Tân gia"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Móc treo chìa khóa bằng gỗ là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, gỗ, decor, tân gia, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-045",
+    "name": "Chậu cây gỗ mini",
+    "price": 109000,
+    "category": "Đồ handmade & trang trí",
+    "subcategory": "Đồ trang trí & mô hình",
+    "tags": [
+      "Đồ handmade & trang trí",
+      "Handmade làm sẵn",
+      "gỗ",
+      "cây cảnh",
+      "decor",
+      "Đồ làm sẵn",
+      "Trang trí"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Cảm ơn"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Chậu cây gỗ mini là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, gỗ, cây cảnh, decor, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-046",
+    "name": "Bó hoa tulip len",
+    "price": 199000,
+    "category": "Hoa len & hoa giấy",
+    "subcategory": "Hoa & bó hoa",
+    "tags": [
+      "Hoa len & hoa giấy",
+      "Handmade làm sẵn",
+      "hoa len",
+      "sinh nhật",
+      "Valentine",
+      "8/3",
+      "Đồ làm sẵn",
+      "Đồ len"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Valentine"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Bó hoa tulip len là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, hoa len, sinh nhật, Valentine, 8/3, Sinh nhật, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-047",
+    "name": "Bó hoa hồng len",
+    "price": 249000,
+    "category": "Hoa len & hoa giấy",
+    "subcategory": "Hoa & bó hoa",
+    "tags": [
+      "Hoa len & hoa giấy",
+      "Handmade làm sẵn",
+      "hoa len",
+      "tình yêu",
+      "Valentine",
+      "Đồ làm sẵn",
+      "Đồ len"
+    ],
+    "occasions": [
+      "Valentine"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Bó hoa hồng len là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, hoa len, tình yêu, Valentine, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-048",
+    "name": "Bó hoa cúc len",
+    "price": 299000,
+    "category": "Hoa len & hoa giấy",
+    "subcategory": "Hoa & bó hoa",
+    "tags": [
+      "Hoa len & hoa giấy",
+      "Handmade làm sẵn",
+      "hoa len",
+      "sinh nhật",
+      "quà tặng",
+      "Đồ làm sẵn",
+      "Đồ len"
+    ],
+    "occasions": [
+      "Sinh nhật"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Bó hoa cúc len là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, hoa len, sinh nhật, quà tặng, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-049",
+    "name": "Bó hoa hướng dương len",
+    "price": 69000,
+    "category": "Hoa len & hoa giấy",
+    "subcategory": "Hoa & bó hoa",
+    "tags": [
+      "Hoa len & hoa giấy",
+      "Handmade làm sẵn",
+      "hoa len",
+      "tốt nghiệp",
+      "sinh nhật",
+      "Đồ làm sẵn",
+      "Đồ len"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Tốt nghiệp"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Bó hoa hướng dương len là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, hoa len, tốt nghiệp, sinh nhật, Tốt nghiệp, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-050",
+    "name": "Hoa kẽm nhung",
+    "price": 99000,
+    "category": "Hoa len & hoa giấy",
+    "subcategory": "Hoa & bó hoa",
+    "tags": [
+      "Hoa len & hoa giấy",
+      "Handmade làm sẵn",
+      "hoa kẽm nhung",
+      "sinh nhật",
+      "8/3",
+      "Đồ làm sẵn"
+    ],
+    "occasions": [
+      "Sinh nhật"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Hoa kẽm nhung là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, hoa kẽm nhung, sinh nhật, 8/3, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-051",
+    "name": "Hoa giấy nhún",
+    "price": 129000,
+    "category": "Hoa len & hoa giấy",
+    "subcategory": "Hoa & bó hoa",
+    "tags": [
+      "Hoa len & hoa giấy",
+      "Handmade làm sẵn",
+      "hoa giấy",
+      "decor",
+      "sinh nhật",
+      "Tết",
+      "8/3",
+      "Đồ làm sẵn"
+    ],
+    "occasions": [
+      "Sinh nhật"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Hoa giấy nhún là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, hoa giấy, decor, sinh nhật, Tết, 8/3, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-052",
+    "name": "Hoa giấy origami",
+    "price": 159000,
+    "category": "Hoa len & hoa giấy",
+    "subcategory": "Hoa & bó hoa",
+    "tags": [
+      "Hoa len & hoa giấy",
+      "Handmade làm sẵn",
+      "origami",
+      "hoa giấy",
+      "quà tặng",
+      "Đồ làm sẵn"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Cảm ơn"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Hoa giấy origami là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, origami, hoa giấy, quà tặng, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-053",
+    "name": "Hoa đất sét",
+    "price": 199000,
+    "category": "Hoa len & hoa giấy",
+    "subcategory": "Hoa & bó hoa",
+    "tags": [
+      "Hoa len & hoa giấy",
+      "Handmade làm sẵn",
+      "đất sét",
+      "hoa",
+      "decor",
+      "Đồ làm sẵn"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Cảm ơn"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Hoa đất sét là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, đất sét, hoa, decor, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-054",
+    "name": "Hoa vải handmade",
+    "price": 249000,
+    "category": "Hoa len & hoa giấy",
+    "subcategory": "Hoa & bó hoa",
+    "tags": [
+      "Hoa len & hoa giấy",
+      "Handmade làm sẵn",
+      "hoa vải",
+      "quà tặng",
+      "Đồ làm sẵn"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Cảm ơn"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Hoa vải handmade là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, hoa vải, quà tặng, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-055",
+    "name": "Hoa nỉ handmade",
+    "price": 299000,
+    "category": "Hoa len & hoa giấy",
+    "subcategory": "Hoa & bó hoa",
+    "tags": [
+      "Hoa len & hoa giấy",
+      "Handmade làm sẵn",
+      "hoa nỉ",
+      "quà tặng",
+      "Đồ làm sẵn"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Cảm ơn"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Hoa nỉ handmade là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, hoa nỉ, quà tặng, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-056",
+    "name": "Hoa ép khô đóng khung",
+    "price": 69000,
+    "category": "Hoa len & hoa giấy",
+    "subcategory": "Hoa & bó hoa",
+    "tags": [
+      "Hoa len & hoa giấy",
+      "Handmade làm sẵn",
+      "hoa khô",
+      "khung ảnh",
+      "kỷ niệm",
+      "Tết",
+      "Đồ làm sẵn"
+    ],
+    "occasions": [
+      "Kỷ niệm"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Hoa ép khô đóng khung là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, hoa khô, khung ảnh, kỷ niệm, Tết, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-057",
+    "name": "Chậu hoa len mini",
+    "price": 99000,
+    "category": "Hoa len & hoa giấy",
+    "subcategory": "Hoa & bó hoa",
+    "tags": [
+      "Hoa len & hoa giấy",
+      "Handmade làm sẵn",
+      "hoa len",
+      "decor",
+      "quà tặng",
+      "Đồ làm sẵn",
+      "Đồ len"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Cảm ơn"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Chậu hoa len mini là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, hoa len, decor, quà tặng, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-058",
+    "name": "Lọ hoa gốm vẽ tay",
+    "price": 129000,
+    "category": "Hoa len & hoa giấy",
+    "subcategory": "Hoa & bó hoa",
+    "tags": [
+      "Hoa len & hoa giấy",
+      "Handmade làm sẵn",
+      "gốm",
+      "hoa",
+      "tân gia",
+      "Đồ làm sẵn"
+    ],
+    "occasions": [
+      "Tân gia"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Lọ hoa gốm vẽ tay là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, gốm, hoa, tân gia, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-059",
+    "name": "Bó hoa kết hợp thú bông",
+    "price": 159000,
+    "category": "Hộp quà & set quà",
+    "subcategory": "Hộp quà & set quà",
+    "tags": [
+      "Hộp quà & set quà",
+      "Handmade làm sẵn",
+      "hoa",
+      "thú bông",
+      "sinh nhật",
+      "Valentine",
+      "Đồ làm sẵn"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Valentine"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Bó hoa kết hợp thú bông là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, hoa, thú bông, sinh nhật, Valentine, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-060",
+    "name": "Hộp hoa handmade kèm thiệp",
+    "price": 199000,
+    "category": "Thiệp & lời nhắn",
+    "subcategory": "Thiệp, album & lưu niệm",
+    "tags": [
+      "Thiệp & lời nhắn",
+      "Handmade làm sẵn",
+      "hộp quà",
+      "hoa",
+      "thiệp",
+      "sinh nhật",
+      "8/3",
+      "Đồ làm sẵn"
+    ],
+    "occasions": [
+      "Sinh nhật"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Hộp hoa handmade kèm thiệp là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, hộp quà, hoa, thiệp, sinh nhật, 8/3, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-061",
+    "name": "Gấu bông móc len",
+    "price": 249000,
+    "category": "Đồ handmade & trang trí",
+    "subcategory": "Thú bông & đồ len",
+    "tags": [
+      "Đồ handmade & trang trí",
+      "Handmade làm sẵn",
+      "thú bông",
+      "len",
+      "sinh nhật",
+      "Đồ làm sẵn",
+      "Đồ len"
+    ],
+    "occasions": [
+      "Sinh nhật"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Gấu bông móc len là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, thú bông, len, sinh nhật, Sinh nhật, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-062",
+    "name": "Thỏ bông móc len",
+    "price": 299000,
+    "category": "Đồ handmade & trang trí",
+    "subcategory": "Thú bông & đồ len",
+    "tags": [
+      "Đồ handmade & trang trí",
+      "Handmade làm sẵn",
+      "thú bông",
+      "len",
+      "dễ thương",
+      "Đồ làm sẵn",
+      "Đồ len"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Cảm ơn"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Thỏ bông móc len là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, thú bông, len, dễ thương, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-063",
+    "name": "Mèo bông móc len",
+    "price": 149000,
+    "category": "Đồ handmade & trang trí",
+    "subcategory": "Thú bông & đồ len",
+    "tags": [
+      "Đồ handmade & trang trí",
+      "Handmade làm sẵn",
+      "thú bông",
+      "len",
+      "mèo",
+      "Đồ làm sẵn",
+      "Đồ len"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Cảm ơn"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Mèo bông móc len là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, thú bông, len, mèo, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-064",
+    "name": "Chó bông móc len",
+    "price": 29000,
+    "category": "Đồ handmade & trang trí",
+    "subcategory": "Thú bông & đồ len",
+    "tags": [
+      "Đồ handmade & trang trí",
+      "Handmade làm sẵn",
+      "thú bông",
+      "len",
+      "chó",
+      "Đồ làm sẵn",
+      "Đồ len"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Cảm ơn"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Chó bông móc len là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, thú bông, len, chó, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-065",
+    "name": "Ếch xanh móc len",
+    "price": 39000,
+    "category": "Đồ handmade & trang trí",
+    "subcategory": "Thú bông & đồ len",
+    "tags": [
+      "Đồ handmade & trang trí",
+      "Handmade làm sẵn",
+      "thú bông",
+      "len",
+      "dễ thương",
+      "Đồ làm sẵn",
+      "Đồ len"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Cảm ơn"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Ếch xanh móc len là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, thú bông, len, dễ thương, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-066",
+    "name": "Capybara len",
+    "price": 49000,
+    "category": "Đồ handmade & trang trí",
+    "subcategory": "Thú bông & đồ len",
+    "tags": [
+      "Đồ handmade & trang trí",
+      "Handmade làm sẵn",
+      "thú bông",
+      "len",
+      "capybara",
+      "Đồ làm sẵn",
+      "Đồ len"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Cảm ơn"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Capybara len là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, thú bông, len, capybara, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-067",
+    "name": "Khủng long len",
+    "price": 69000,
+    "category": "Đồ handmade & trang trí",
+    "subcategory": "Thú bông & đồ len",
+    "tags": [
+      "Đồ handmade & trang trí",
+      "Handmade làm sẵn",
+      "thú bông",
+      "len",
+      "quà tặng",
+      "Đồ làm sẵn",
+      "Đồ len"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Cảm ơn"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Khủng long len là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, thú bông, len, quà tặng, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-068",
+    "name": "Vịt vàng móc len",
+    "price": 89000,
+    "category": "Đồ handmade & trang trí",
+    "subcategory": "Thú bông & đồ len",
+    "tags": [
+      "Đồ handmade & trang trí",
+      "Handmade làm sẵn",
+      "thú bông",
+      "len",
+      "dễ thương",
+      "Đồ làm sẵn",
+      "Đồ len"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Cảm ơn"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Vịt vàng móc len là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, thú bông, len, dễ thương, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-069",
+    "name": "Ong mật móc len",
+    "price": 109000,
+    "category": "Đồ handmade & trang trí",
+    "subcategory": "Thú bông & đồ len",
+    "tags": [
+      "Đồ handmade & trang trí",
+      "Handmade làm sẵn",
+      "thú bông",
+      "len",
+      "dễ thương",
+      "Đồ làm sẵn",
+      "Đồ len"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Cảm ơn"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Ong mật móc len là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, thú bông, len, dễ thương, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-070",
+    "name": "Bạch tuộc len mini",
+    "price": 129000,
+    "category": "Đồ handmade & trang trí",
+    "subcategory": "Thú bông & đồ len",
+    "tags": [
+      "Đồ handmade & trang trí",
+      "Handmade làm sẵn",
+      "thú bông",
+      "len",
+      "mini",
+      "Đồ làm sẵn",
+      "Đồ len"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Cảm ơn"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Bạch tuộc len mini là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, thú bông, len, mini, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-071",
+    "name": "Móc khóa thú bông",
+    "price": 99000,
+    "category": "Đồ handmade & trang trí",
+    "subcategory": "Thú bông & đồ len",
+    "tags": [
+      "Đồ handmade & trang trí",
+      "Handmade làm sẵn",
+      "móc khóa",
+      "thú bông",
+      "quà tặng",
+      "Đồ làm sẵn"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Cảm ơn"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Móc khóa thú bông là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, móc khóa, thú bông, quà tặng, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-072",
+    "name": "Búp bê len",
+    "price": 29000,
+    "category": "Đồ handmade & trang trí",
+    "subcategory": "Thú bông & đồ len",
+    "tags": [
+      "Đồ handmade & trang trí",
+      "Handmade làm sẵn",
+      "búp bê",
+      "len",
+      "quà sinh nhật",
+      "Đồ làm sẵn",
+      "Đồ len"
+    ],
+    "occasions": [
+      "Sinh nhật"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Búp bê len là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, búp bê, len, quà sinh nhật, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-073",
+    "name": "Gối ôm len handmade",
+    "price": 159000,
+    "category": "Đồ handmade & trang trí",
+    "subcategory": "Thú bông & đồ len",
+    "tags": [
+      "Đồ handmade & trang trí",
+      "Handmade làm sẵn",
+      "gối",
+      "len",
+      "decor",
+      "Đồ làm sẵn",
+      "Đồ len"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Cảm ơn"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Gối ôm len handmade là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, gối, len, decor, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-074",
+    "name": "Thú bông mặc trang phục mini",
+    "price": 199000,
+    "category": "Đồ handmade & trang trí",
+    "subcategory": "Thú bông & đồ len",
+    "tags": [
+      "Đồ handmade & trang trí",
+      "Handmade làm sẵn",
+      "thú bông",
+      "cá nhân hóa",
+      "Đồ làm sẵn"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Cảm ơn"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Thú bông mặc trang phục mini là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, thú bông, cá nhân hóa, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-075",
+    "name": "Móc khóa nhân vật theo yêu cầu",
+    "price": 69000,
+    "category": "Đồ handmade & trang trí",
+    "subcategory": "Quà cá nhân hóa",
+    "tags": [
+      "Đồ handmade & trang trí",
+      "Handmade làm sẵn",
+      "móc khóa",
+      "cá nhân hóa",
+      "Đồ làm sẵn"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Cảm ơn"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Móc khóa nhân vật theo yêu cầu là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, móc khóa, cá nhân hóa, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-076",
+    "name": "Vòng tay hạt cườm",
+    "price": 89000,
+    "category": "Đồ handmade & trang trí",
+    "subcategory": "Trang sức & phụ kiện",
+    "tags": [
+      "Đồ handmade & trang trí",
+      "Handmade làm sẵn",
+      "trang sức",
+      "vòng tay",
+      "sinh nhật",
+      "Đồ làm sẵn"
+    ],
+    "occasions": [
+      "Sinh nhật"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Vòng tay hạt cườm là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, trang sức, vòng tay, sinh nhật, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-077",
+    "name": "Vòng tay ngọc trai nhân tạo",
+    "price": 109000,
+    "category": "Đồ handmade & trang trí",
+    "subcategory": "Trang sức & phụ kiện",
+    "tags": [
+      "Đồ handmade & trang trí",
+      "Handmade làm sẵn",
+      "trang sức",
+      "ngọc trai",
+      "quà tặng",
+      "Đồ làm sẵn"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Cảm ơn"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Vòng tay ngọc trai nhân tạo là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, trang sức, ngọc trai, quà tặng, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-078",
+    "name": "Vòng đôi handmade",
+    "price": 129000,
+    "category": "Đồ handmade & trang trí",
+    "subcategory": "Trang sức & phụ kiện",
+    "tags": [
+      "Đồ handmade & trang trí",
+      "Handmade làm sẵn",
+      "vòng đôi",
+      "tình yêu",
+      "Valentine",
+      "Đồ làm sẵn",
+      "Quà đôi / Kỷ niệm"
+    ],
+    "occasions": [
+      "Valentine",
+      "Kỷ niệm"
+    ],
+    "recipients": [
+      "Người yêu"
+    ],
+    "description": "Vòng đôi handmade là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, vòng đôi, tình yêu, Valentine, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-079",
+    "name": "Vòng tình bạn",
+    "price": 149000,
+    "category": "Đồ handmade & trang trí",
+    "subcategory": "Trang sức & phụ kiện",
+    "tags": [
+      "Đồ handmade & trang trí",
+      "Handmade làm sẵn",
+      "vòng tay",
+      "bạn thân",
+      "quà tặng",
+      "Đồ làm sẵn",
+      "Quà đôi / Kỷ niệm"
+    ],
+    "occasions": [
+      "Kỷ niệm"
+    ],
+    "recipients": [
+      "Bạn thân"
+    ],
+    "description": "Vòng tình bạn là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, vòng tay, bạn thân, quà tặng, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-080",
+    "name": "Vòng tay charm chữ cái",
+    "price": 29000,
+    "category": "Đồ handmade & trang trí",
+    "subcategory": "Trang sức & phụ kiện",
+    "tags": [
+      "Đồ handmade & trang trí",
+      "Handmade làm sẵn",
+      "vòng tay",
+      "charm",
+      "cá nhân hóa",
+      "Đồ làm sẵn"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Cảm ơn"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Vòng tay charm chữ cái là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, vòng tay, charm, cá nhân hóa, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-081",
+    "name": "Dây chuyền hạt handmade",
+    "price": 39000,
+    "category": "Đồ handmade & trang trí",
+    "subcategory": "Trang sức & phụ kiện",
+    "tags": [
+      "Đồ handmade & trang trí",
+      "Handmade làm sẵn",
+      "trang sức",
+      "dây chuyền",
+      "Đồ làm sẵn"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Cảm ơn"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Dây chuyền hạt handmade là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, trang sức, dây chuyền, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-082",
+    "name": "Dây chuyền mặt đất sét",
+    "price": 49000,
+    "category": "Đồ handmade & trang trí",
+    "subcategory": "Trang sức & phụ kiện",
+    "tags": [
+      "Đồ handmade & trang trí",
+      "Handmade làm sẵn",
+      "trang sức",
+      "đất sét",
+      "Đồ làm sẵn"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Cảm ơn"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Dây chuyền mặt đất sét là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, trang sức, đất sét, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-083",
+    "name": "Bông tai đất sét polymer",
+    "price": 329000,
+    "category": "Đồ handmade & trang trí",
+    "subcategory": "Trang sức & phụ kiện",
+    "tags": [
+      "Đồ handmade & trang trí",
+      "Handmade làm sẵn",
+      "trang sức",
+      "bông tai",
+      "Đồ làm sẵn"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Cảm ơn"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Bông tai đất sét polymer là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, trang sức, bông tai, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-084",
+    "name": "Bông tai hoa vải",
+    "price": 69000,
+    "category": "Hoa len & hoa giấy",
+    "subcategory": "Hoa & bó hoa",
+    "tags": [
+      "Hoa len & hoa giấy",
+      "Handmade làm sẵn",
+      "trang sức",
+      "hoa vải",
+      "Đồ làm sẵn"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Cảm ơn"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Bông tai hoa vải là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, trang sức, hoa vải, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-085",
+    "name": "Nhẫn hạt cườm",
+    "price": 109000,
+    "category": "Đồ handmade & trang trí",
+    "subcategory": "Trang sức & phụ kiện",
+    "tags": [
+      "Đồ handmade & trang trí",
+      "Handmade làm sẵn",
+      "trang sức",
+      "nhẫn",
+      "Đồ làm sẵn"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Cảm ơn"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Nhẫn hạt cườm là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, trang sức, nhẫn, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-086",
+    "name": "Kẹp tóc hoa handmade",
+    "price": 129000,
+    "category": "Đồ handmade & trang trí",
+    "subcategory": "Trang sức & phụ kiện",
+    "tags": [
+      "Đồ handmade & trang trí",
+      "Handmade làm sẵn",
+      "phụ kiện",
+      "kẹp tóc",
+      "quà tặng",
+      "Đồ làm sẵn"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Cảm ơn"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Kẹp tóc hoa handmade là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, phụ kiện, kẹp tóc, quà tặng, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "assets/button-hair-clips.jpg",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-087",
+    "name": "Kẹp tóc nơ vải",
+    "price": 149000,
+    "category": "Đồ handmade & trang trí",
+    "subcategory": "Trang sức & phụ kiện",
+    "tags": [
+      "Đồ handmade & trang trí",
+      "Handmade làm sẵn",
+      "phụ kiện",
+      "nơ",
+      "dễ thương",
+      "Đồ làm sẵn"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Cảm ơn"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Kẹp tóc nơ vải là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, phụ kiện, nơ, dễ thương, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "assets/button-hair-clips.jpg",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-088",
+    "name": "Dây buộc tóc Scrunchie",
+    "price": 29000,
+    "category": "Đồ handmade & trang trí",
+    "subcategory": "Trang sức & phụ kiện",
+    "tags": [
+      "Đồ handmade & trang trí",
+      "Handmade làm sẵn",
+      "phụ kiện",
+      "tóc",
+      "quà tặng",
+      "Đồ làm sẵn"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Cảm ơn"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Dây buộc tóc Scrunchie là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, phụ kiện, tóc, quà tặng, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-089",
+    "name": "Trâm cài tóc handmade",
+    "price": 39000,
+    "category": "Đồ handmade & trang trí",
+    "subcategory": "Trang sức & phụ kiện",
+    "tags": [
+      "Đồ handmade & trang trí",
+      "Handmade làm sẵn",
+      "phụ kiện",
+      "tóc",
+      "Đồ làm sẵn"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Cảm ơn"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Trâm cài tóc handmade là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, phụ kiện, tóc, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-090",
+    "name": "Túi đựng trang sức thêu tay",
+    "price": 49000,
+    "category": "Đồ handmade & trang trí",
+    "subcategory": "Túi & phụ kiện vải",
+    "tags": [
+      "Đồ handmade & trang trí",
+      "Handmade làm sẵn",
+      "túi vải",
+      "thêu tay",
+      "trang sức",
+      "Đồ làm sẵn"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Cảm ơn"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Túi đựng trang sức thêu tay là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, túi vải, thêu tay, trang sức, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-091",
+    "name": "Túi tote vẽ tay",
+    "price": 69000,
+    "category": "Đồ handmade & trang trí",
+    "subcategory": "Túi & phụ kiện vải",
+    "tags": [
+      "Đồ handmade & trang trí",
+      "Handmade làm sẵn",
+      "túi tote",
+      "vẽ tay",
+      "quà tặng",
+      "Đồ làm sẵn"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Cảm ơn"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Túi tote vẽ tay là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, túi tote, vẽ tay, quà tặng, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-092",
+    "name": "Túi tote thêu hoa",
+    "price": 99000,
+    "category": "Đồ handmade & trang trí",
+    "subcategory": "Túi & phụ kiện vải",
+    "tags": [
+      "Đồ handmade & trang trí",
+      "Handmade làm sẵn",
+      "túi tote",
+      "thêu tay",
+      "hoa",
+      "Đồ làm sẵn"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Cảm ơn"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Túi tote thêu hoa là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, túi tote, thêu tay, hoa, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-093",
+    "name": "Túi tote in hình thủ công",
+    "price": 109000,
+    "category": "Đồ handmade & trang trí",
+    "subcategory": "Túi & phụ kiện vải",
+    "tags": [
+      "Đồ handmade & trang trí",
+      "Handmade làm sẵn",
+      "túi tote",
+      "quà tặng",
+      "Đồ làm sẵn"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Cảm ơn"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Túi tote in hình thủ công là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, túi tote, quà tặng, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-094",
+    "name": "Túi len đeo vai",
+    "price": 159000,
+    "category": "Đồ handmade & trang trí",
+    "subcategory": "Túi & phụ kiện vải",
+    "tags": [
+      "Đồ handmade & trang trí",
+      "Handmade làm sẵn",
+      "túi len",
+      "thời trang",
+      "Đồ làm sẵn",
+      "Đồ len"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Cảm ơn"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Túi len đeo vai là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, túi len, thời trang, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-095",
+    "name": "Túi crochet hình thú",
+    "price": 149000,
+    "category": "Đồ handmade & trang trí",
+    "subcategory": "Túi & phụ kiện vải",
+    "tags": [
+      "Đồ handmade & trang trí",
+      "Handmade làm sẵn",
+      "túi len",
+      "thú",
+      "dễ thương",
+      "Đồ làm sẵn",
+      "Đồ len"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Cảm ơn"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Túi crochet hình thú là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, túi len, thú, dễ thương, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-096",
+    "name": "Ví vải handmade",
+    "price": 29000,
+    "category": "Đồ handmade & trang trí",
+    "subcategory": "Đồ handmade khác",
+    "tags": [
+      "Đồ handmade & trang trí",
+      "Handmade làm sẵn",
+      "ví",
+      "vải",
+      "phụ kiện",
+      "Đồ làm sẵn"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Cảm ơn"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Ví vải handmade là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, ví, vải, phụ kiện, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-097",
+    "name": "Túi đựng mỹ phẩm",
+    "price": 39000,
+    "category": "Đồ handmade & trang trí",
+    "subcategory": "Túi & phụ kiện vải",
+    "tags": [
+      "Đồ handmade & trang trí",
+      "Handmade làm sẵn",
+      "túi vải",
+      "mỹ phẩm",
+      "Đồ làm sẵn"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Cảm ơn"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Túi đựng mỹ phẩm là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, túi vải, mỹ phẩm, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-098",
+    "name": "Túi đựng bút bằng vải",
+    "price": 49000,
+    "category": "Đồ handmade & trang trí",
+    "subcategory": "Túi & phụ kiện vải",
+    "tags": [
+      "Đồ handmade & trang trí",
+      "Handmade làm sẵn",
+      "túi vải",
+      "học tập",
+      "Đồ làm sẵn"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Cảm ơn"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Túi đựng bút bằng vải là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, túi vải, học tập, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-099",
+    "name": "Túi đeo chéo mini",
+    "price": 69000,
+    "category": "Đồ handmade & trang trí",
+    "subcategory": "Túi & phụ kiện vải",
+    "tags": [
+      "Đồ handmade & trang trí",
+      "Handmade làm sẵn",
+      "túi",
+      "thời trang",
+      "Đồ làm sẵn"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Cảm ơn"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Túi đeo chéo mini là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, túi, thời trang, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-100",
+    "name": "Túi patchwork nhiều màu",
+    "price": 89000,
+    "category": "Đồ handmade & trang trí",
+    "subcategory": "Túi & phụ kiện vải",
+    "tags": [
+      "Đồ handmade & trang trí",
+      "Handmade làm sẵn",
+      "túi vải",
+      "patchwork",
+      "Đồ làm sẵn"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Cảm ơn"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Túi patchwork nhiều màu là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, túi vải, patchwork, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-101",
+    "name": "Túi đựng sách vải",
+    "price": 109000,
+    "category": "Đồ handmade & trang trí",
+    "subcategory": "Túi & phụ kiện vải",
+    "tags": [
+      "Đồ handmade & trang trí",
+      "Handmade làm sẵn",
+      "túi vải",
+      "sách",
+      "Đồ làm sẵn"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Cảm ơn"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Túi đựng sách vải là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, túi vải, sách, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-102",
+    "name": "Khăn tay thêu tên",
+    "price": 129000,
+    "category": "Đồ handmade & trang trí",
+    "subcategory": "Túi & phụ kiện vải",
+    "tags": [
+      "Đồ handmade & trang trí",
+      "Handmade làm sẵn",
+      "khăn tay",
+      "thêu",
+      "cá nhân hóa",
+      "Đồ làm sẵn"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Cảm ơn"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Khăn tay thêu tên là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, khăn tay, thêu, cá nhân hóa, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-103",
+    "name": "Khăn quàng len handmade",
+    "price": 149000,
+    "category": "Đồ handmade & trang trí",
+    "subcategory": "Túi & phụ kiện vải",
+    "tags": [
+      "Đồ handmade & trang trí",
+      "Handmade làm sẵn",
+      "khăn len",
+      "mùa đông",
+      "Giáng sinh",
+      "Đồ làm sẵn",
+      "Đồ len"
+    ],
+    "occasions": [
+      "Giáng sinh"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Khăn quàng len handmade là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, khăn len, mùa đông, Giáng sinh, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-104",
+    "name": "Băng đô vải handmade",
+    "price": 29000,
+    "category": "Đồ handmade & trang trí",
+    "subcategory": "Túi & phụ kiện vải",
+    "tags": [
+      "Đồ handmade & trang trí",
+      "Handmade làm sẵn",
+      "phụ kiện",
+      "vải",
+      "Đồ làm sẵn"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Cảm ơn"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Băng đô vải handmade là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, phụ kiện, vải, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-105",
+    "name": "Mô hình phòng ngủ mini",
+    "price": 229000,
+    "category": "Đồ handmade & trang trí",
+    "subcategory": "Đồ trang trí & mô hình",
+    "tags": [
+      "Đồ handmade & trang trí",
+      "Handmade làm sẵn",
+      "mô hình",
+      "decor",
+      "DIY",
+      "Đồ làm sẵn",
+      "Trang trí"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Cảm ơn"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Mô hình phòng ngủ mini là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, mô hình, decor, DIY, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-106",
+    "name": "Mô hình quán cà phê mini",
+    "price": 279000,
+    "category": "Đồ handmade & trang trí",
+    "subcategory": "Đồ trang trí & mô hình",
+    "tags": [
+      "Đồ handmade & trang trí",
+      "Handmade làm sẵn",
+      "mô hình",
+      "decor",
+      "Đồ làm sẵn",
+      "Trang trí"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Cảm ơn"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Mô hình quán cà phê mini là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, mô hình, decor, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-107",
+    "name": "Nhà búp bê handmade",
+    "price": 329000,
+    "category": "Đồ handmade & trang trí",
+    "subcategory": "Đồ handmade khác",
+    "tags": [
+      "Đồ handmade & trang trí",
+      "Handmade làm sẵn",
+      "nhà búp bê",
+      "mô hình",
+      "Đồ làm sẵn"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Cảm ơn"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Nhà búp bê handmade là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, nhà búp bê, mô hình, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-108",
+    "name": "Tranh canvas vẽ tay",
+    "price": 89000,
+    "category": "Đồ handmade & trang trí",
+    "subcategory": "Đồ trang trí & mô hình",
+    "tags": [
+      "Đồ handmade & trang trí",
+      "Handmade làm sẵn",
+      "tranh",
+      "decor",
+      "tân gia",
+      "Đồ làm sẵn"
+    ],
+    "occasions": [
+      "Tân gia"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Tranh canvas vẽ tay là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, tranh, decor, tân gia, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-109",
+    "name": "Tranh đính hạt",
+    "price": 109000,
+    "category": "Đồ handmade & trang trí",
+    "subcategory": "Đồ trang trí & mô hình",
+    "tags": [
+      "Đồ handmade & trang trí",
+      "Handmade làm sẵn",
+      "tranh",
+      "decor",
+      "Đồ làm sẵn"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Cảm ơn"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Tranh đính hạt là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, tranh, decor, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-110",
+    "name": "Tranh thêu hoa",
+    "price": 249000,
+    "category": "Đồ handmade & trang trí",
+    "subcategory": "Đồ trang trí & mô hình",
+    "tags": [
+      "Đồ handmade & trang trí",
+      "Handmade làm sẵn",
+      "tranh",
+      "thêu",
+      "decor",
+      "Đồ làm sẵn"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Cảm ơn"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Tranh thêu hoa là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, tranh, thêu, decor, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-111",
+    "name": "Tranh dây quấn nghệ thuật",
+    "price": 149000,
+    "category": "Đồ handmade & trang trí",
+    "subcategory": "Đồ trang trí & mô hình",
+    "tags": [
+      "Đồ handmade & trang trí",
+      "Handmade làm sẵn",
+      "tranh",
+      "decor",
+      "Đồ làm sẵn"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Cảm ơn"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Tranh dây quấn nghệ thuật là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, tranh, decor, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-112",
+    "name": "Dreamcatcher handmade",
+    "price": 29000,
+    "category": "Đồ handmade & trang trí",
+    "subcategory": "Đồ trang trí & mô hình",
+    "tags": [
+      "Đồ handmade & trang trí",
+      "Handmade làm sẵn",
+      "dreamcatcher",
+      "decor",
+      "Đồ làm sẵn"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Cảm ơn"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Dreamcatcher handmade là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, dreamcatcher, decor, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-113",
+    "name": "Chuông gió vỏ sò",
+    "price": 39000,
+    "category": "Đồ handmade & trang trí",
+    "subcategory": "Đồ trang trí & mô hình",
+    "tags": [
+      "Đồ handmade & trang trí",
+      "Handmade làm sẵn",
+      "chuông gió",
+      "decor",
+      "tân gia",
+      "Đồ làm sẵn"
+    ],
+    "occasions": [
+      "Tân gia"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Chuông gió vỏ sò là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, chuông gió, decor, tân gia, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-114",
+    "name": "Chuông gió gốm",
+    "price": 49000,
+    "category": "Đồ handmade & trang trí",
+    "subcategory": "Đồ trang trí & mô hình",
+    "tags": [
+      "Đồ handmade & trang trí",
+      "Handmade làm sẵn",
+      "chuông gió",
+      "gốm",
+      "decor",
+      "Đồ làm sẵn"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Cảm ơn"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Chuông gió gốm là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, chuông gió, gốm, decor, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-115",
+    "name": "Đèn ngủ len hoặc vải",
+    "price": 159000,
+    "category": "Đồ handmade & trang trí",
+    "subcategory": "Đồ trang trí & mô hình",
+    "tags": [
+      "Đồ handmade & trang trí",
+      "Handmade làm sẵn",
+      "đèn ngủ",
+      "decor",
+      "Đồ làm sẵn",
+      "Đồ len"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Cảm ơn"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Đèn ngủ len hoặc vải là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, đèn ngủ, decor, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-116",
+    "name": "Đồ treo tường macrame",
+    "price": 89000,
+    "category": "Đồ handmade & trang trí",
+    "subcategory": "Đồ trang trí & mô hình",
+    "tags": [
+      "Đồ handmade & trang trí",
+      "Handmade làm sẵn",
+      "macrame",
+      "decor",
+      "Đồ làm sẵn"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Cảm ơn"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Đồ treo tường macrame là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, macrame, decor, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-117",
+    "name": "Gương viền hoa handmade",
+    "price": 249000,
+    "category": "Đồ handmade & trang trí",
+    "subcategory": "Đồ trang trí & mô hình",
+    "tags": [
+      "Đồ handmade & trang trí",
+      "Handmade làm sẵn",
+      "gương",
+      "decor",
+      "Đồ làm sẵn"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Cảm ơn"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Gương viền hoa handmade là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, gương, decor, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-118",
+    "name": "Lọ thủy tinh trang trí",
+    "price": 129000,
+    "category": "Đồ handmade & trang trí",
+    "subcategory": "Đồ trang trí & mô hình",
+    "tags": [
+      "Đồ handmade & trang trí",
+      "Handmade làm sẵn",
+      "thủy tinh",
+      "decor",
+      "Đồ làm sẵn"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Cảm ơn"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Lọ thủy tinh trang trí là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, thủy tinh, decor, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-119",
+    "name": "Hộp đựng đồ để bàn handmade",
+    "price": 149000,
+    "category": "Đồ handmade & trang trí",
+    "subcategory": "Đồ trang trí & mô hình",
+    "tags": [
+      "Đồ handmade & trang trí",
+      "Handmade làm sẵn",
+      "hộp đựng",
+      "decor",
+      "bàn học",
+      "Đồ làm sẵn"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Cảm ơn"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Hộp đựng đồ để bàn handmade là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, hộp đựng, decor, bàn học, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-120",
+    "name": "Nến thơm trong cốc",
+    "price": 129000,
+    "category": "Đồ handmade & trang trí",
+    "subcategory": "Cốc, ly & phụ kiện",
+    "tags": [
+      "Đồ handmade & trang trí",
+      "Handmade làm sẵn",
+      "nến thơm",
+      "thư giãn",
+      "quà tặng",
+      "Giáng sinh",
+      "Đồ làm sẵn"
+    ],
+    "occasions": [
+      "Giáng sinh"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Nến thơm trong cốc là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, nến thơm, thư giãn, quà tặng, Giáng sinh, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-121",
+    "name": "Nến tạo hình hoa",
+    "price": 129000,
+    "category": "Đồ handmade & trang trí",
+    "subcategory": "Nến thơm & hương thơm",
+    "tags": [
+      "Đồ handmade & trang trí",
+      "Handmade làm sẵn",
+      "nến",
+      "hoa",
+      "quà tặng",
+      "Đồ làm sẵn"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Cảm ơn"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Nến tạo hình hoa là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, nến, hoa, quà tặng, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-122",
+    "name": "Nến hình trái tim",
+    "price": 159000,
+    "category": "Đồ handmade & trang trí",
+    "subcategory": "Nến thơm & hương thơm",
+    "tags": [
+      "Đồ handmade & trang trí",
+      "Handmade làm sẵn",
+      "nến",
+      "Valentine",
+      "tình yêu",
+      "Đồ làm sẵn"
+    ],
+    "occasions": [
+      "Valentine"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Nến hình trái tim là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, nến, Valentine, tình yêu, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-123",
+    "name": "Nến hình bánh ngọt",
+    "price": 199000,
+    "category": "Đồ handmade & trang trí",
+    "subcategory": "Nến thơm & hương thơm",
+    "tags": [
+      "Đồ handmade & trang trí",
+      "Handmade làm sẵn",
+      "nến",
+      "dễ thương",
+      "sinh nhật",
+      "Đồ làm sẵn"
+    ],
+    "occasions": [
+      "Sinh nhật"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Nến hình bánh ngọt là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, nến, dễ thương, sinh nhật, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-124",
+    "name": "Nến nổi trang trí",
+    "price": 249000,
+    "category": "Đồ handmade & trang trí",
+    "subcategory": "Nến thơm & hương thơm",
+    "tags": [
+      "Đồ handmade & trang trí",
+      "Handmade làm sẵn",
+      "nến",
+      "decor",
+      "Đồ làm sẵn"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Cảm ơn"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Nến nổi trang trí là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, nến, decor, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-125",
+    "name": "Sáp thơm treo tủ",
+    "price": 109000,
+    "category": "Đồ handmade & trang trí",
+    "subcategory": "Nến thơm & hương thơm",
+    "tags": [
+      "Đồ handmade & trang trí",
+      "Handmade làm sẵn",
+      "sáp thơm",
+      "quà tặng",
+      "Đồ làm sẵn"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Cảm ơn"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Sáp thơm treo tủ là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, sáp thơm, quà tặng, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-126",
+    "name": "Túi thơm thảo mộc",
+    "price": 129000,
+    "category": "Đồ handmade & trang trí",
+    "subcategory": "Túi & phụ kiện vải",
+    "tags": [
+      "Đồ handmade & trang trí",
+      "Handmade làm sẵn",
+      "túi thơm",
+      "thư giãn",
+      "Đồ làm sẵn"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Cảm ơn"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Túi thơm thảo mộc là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, túi thơm, thư giãn, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-127",
+    "name": "Túi thơm thêu tay",
+    "price": 149000,
+    "category": "Đồ handmade & trang trí",
+    "subcategory": "Túi & phụ kiện vải",
+    "tags": [
+      "Đồ handmade & trang trí",
+      "Handmade làm sẵn",
+      "túi thơm",
+      "thêu tay",
+      "Đồ làm sẵn"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Cảm ơn"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Túi thơm thêu tay là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, túi thơm, thêu tay, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-128",
+    "name": "Đá thơm khuếch tán hương",
+    "price": 29000,
+    "category": "Đồ handmade & trang trí",
+    "subcategory": "Nến thơm & hương thơm",
+    "tags": [
+      "Đồ handmade & trang trí",
+      "Handmade làm sẵn",
+      "đá thơm",
+      "decor",
+      "Đồ làm sẵn"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Cảm ơn"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Đá thơm khuếch tán hương là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, đá thơm, decor, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-129",
+    "name": "Đế nến đất sét",
+    "price": 159000,
+    "category": "Đồ handmade & trang trí",
+    "subcategory": "Nến thơm & hương thơm",
+    "tags": [
+      "Đồ handmade & trang trí",
+      "Handmade làm sẵn",
+      "đất sét",
+      "nến",
+      "Đồ làm sẵn"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Cảm ơn"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Đế nến đất sét là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, đất sét, nến, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-130",
+    "name": "Khay đựng nến handmade",
+    "price": 199000,
+    "category": "Đồ handmade & trang trí",
+    "subcategory": "Nến thơm & hương thơm",
+    "tags": [
+      "Đồ handmade & trang trí",
+      "Handmade làm sẵn",
+      "khay",
+      "nến",
+      "decor",
+      "Đồ làm sẵn"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Cảm ơn"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Khay đựng nến handmade là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, khay, nến, decor, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-131",
+    "name": "Hộp quà nến thơm",
+    "price": 249000,
+    "category": "Hộp quà & set quà",
+    "subcategory": "Hộp quà & set quà",
+    "tags": [
+      "Hộp quà & set quà",
+      "Handmade làm sẵn",
+      "hộp quà",
+      "nến",
+      "sinh nhật",
+      "Đồ làm sẵn"
+    ],
+    "occasions": [
+      "Sinh nhật"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Hộp quà nến thơm là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, hộp quà, nến, sinh nhật, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-132",
+    "name": "Set nến và thiệp",
+    "price": 299000,
+    "category": "Thiệp & lời nhắn",
+    "subcategory": "Thiệp, album & lưu niệm",
+    "tags": [
+      "Thiệp & lời nhắn",
+      "Handmade làm sẵn",
+      "set quà",
+      "nến",
+      "thiệp",
+      "Đồ làm sẵn"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Cảm ơn"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Set nến và thiệp là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, set quà, nến, thiệp, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-133",
+    "name": "Set nến và hoa khô",
+    "price": 69000,
+    "category": "Hộp quà & set quà",
+    "subcategory": "Hộp quà & set quà",
+    "tags": [
+      "Hộp quà & set quà",
+      "Handmade làm sẵn",
+      "set quà",
+      "nến",
+      "hoa khô",
+      "Giáng sinh",
+      "Đồ làm sẵn"
+    ],
+    "occasions": [
+      "Giáng sinh"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Set nến và hoa khô là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, set quà, nến, hoa khô, Giáng sinh, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-134",
+    "name": "Đĩa trang trí đựng nến",
+    "price": 99000,
+    "category": "Đồ handmade & trang trí",
+    "subcategory": "Nến thơm & hương thơm",
+    "tags": [
+      "Đồ handmade & trang trí",
+      "Handmade làm sẵn",
+      "đĩa",
+      "nến",
+      "decor",
+      "Đồ làm sẵn"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Cảm ơn"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Đĩa trang trí đựng nến là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, đĩa, nến, decor, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-135",
+    "name": "Mô hình bánh mì mini",
+    "price": 149000,
+    "category": "Đồ handmade & trang trí",
+    "subcategory": "Đồ trang trí & mô hình",
+    "tags": [
+      "Đồ handmade & trang trí",
+      "Handmade làm sẵn",
+      "mô hình mini",
+      "đất sét",
+      "Đồ làm sẵn",
+      "Trang trí"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Cảm ơn"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Mô hình bánh mì mini là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, mô hình mini, đất sét, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-136",
+    "name": "Mô hình bánh kem mini",
+    "price": 29000,
+    "category": "Đồ handmade & trang trí",
+    "subcategory": "Đồ trang trí & mô hình",
+    "tags": [
+      "Đồ handmade & trang trí",
+      "Handmade làm sẵn",
+      "mô hình mini",
+      "sinh nhật",
+      "Đồ làm sẵn",
+      "Trang trí"
+    ],
+    "occasions": [
+      "Sinh nhật"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Mô hình bánh kem mini là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, mô hình mini, sinh nhật, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-137",
+    "name": "Mô hình trái cây mini",
+    "price": 39000,
+    "category": "Đồ handmade & trang trí",
+    "subcategory": "Đồ trang trí & mô hình",
+    "tags": [
+      "Đồ handmade & trang trí",
+      "Handmade làm sẵn",
+      "mô hình mini",
+      "đất sét",
+      "Đồ làm sẵn",
+      "Trang trí"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Cảm ơn"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Mô hình trái cây mini là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, mô hình mini, đất sét, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-138",
+    "name": "Mô hình đồ ăn Việt Nam",
+    "price": 49000,
+    "category": "Đồ handmade & trang trí",
+    "subcategory": "Đồ trang trí & mô hình",
+    "tags": [
+      "Đồ handmade & trang trí",
+      "Handmade làm sẵn",
+      "mô hình mini",
+      "văn hóa Việt",
+      "Đồ làm sẵn",
+      "Trang trí"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Cảm ơn"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Mô hình đồ ăn Việt Nam là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, mô hình mini, văn hóa Việt, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-139",
+    "name": "Móc khóa đất sét",
+    "price": 69000,
+    "category": "Đồ handmade & trang trí",
+    "subcategory": "Đồ handmade khác",
+    "tags": [
+      "Đồ handmade & trang trí",
+      "Handmade làm sẵn",
+      "móc khóa",
+      "đất sét",
+      "Đồ làm sẵn"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Cảm ơn"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Móc khóa đất sét là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, móc khóa, đất sét, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-140",
+    "name": "Nam châm tủ lạnh đất sét",
+    "price": 89000,
+    "category": "Đồ handmade & trang trí",
+    "subcategory": "Đồ trang trí & mô hình",
+    "tags": [
+      "Đồ handmade & trang trí",
+      "Handmade làm sẵn",
+      "nam châm",
+      "đất sét",
+      "quà tặng",
+      "Đồ làm sẵn"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Cảm ơn"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Nam châm tủ lạnh đất sét là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, nam châm, đất sét, quà tặng, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-141",
+    "name": "Khay đựng trang sức đất sét",
+    "price": 109000,
+    "category": "Đồ handmade & trang trí",
+    "subcategory": "Đồ trang trí & mô hình",
+    "tags": [
+      "Đồ handmade & trang trí",
+      "Handmade làm sẵn",
+      "khay",
+      "đất sét",
+      "trang sức",
+      "Đồ làm sẵn"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Cảm ơn"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Khay đựng trang sức đất sét là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, khay, đất sét, trang sức, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-142",
+    "name": "Đĩa gốm vẽ tay",
+    "price": 129000,
+    "category": "Đồ handmade & trang trí",
+    "subcategory": "Đồ trang trí & mô hình",
+    "tags": [
+      "Đồ handmade & trang trí",
+      "Handmade làm sẵn",
+      "gốm",
+      "vẽ tay",
+      "decor",
+      "Đồ làm sẵn"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Cảm ơn"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Đĩa gốm vẽ tay là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, gốm, vẽ tay, decor, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-143",
+    "name": "Tượng mèo gốm mini",
+    "price": 149000,
+    "category": "Đồ handmade & trang trí",
+    "subcategory": "Đồ trang trí & mô hình",
+    "tags": [
+      "Đồ handmade & trang trí",
+      "Handmade làm sẵn",
+      "gốm",
+      "mèo",
+      "decor",
+      "Đồ làm sẵn"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Cảm ơn"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Tượng mèo gốm mini là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, gốm, mèo, decor, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-144",
+    "name": "Tượng thỏ gốm mini",
+    "price": 199000,
+    "category": "Đồ handmade & trang trí",
+    "subcategory": "Đồ trang trí & mô hình",
+    "tags": [
+      "Đồ handmade & trang trí",
+      "Handmade làm sẵn",
+      "gốm",
+      "thỏ",
+      "decor",
+      "Đồ làm sẵn"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Cảm ơn"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Tượng thỏ gốm mini là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, gốm, thỏ, decor, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-145",
+    "name": "Chậu cây đất sét",
+    "price": 39000,
+    "category": "Đồ handmade & trang trí",
+    "subcategory": "Đồ trang trí & mô hình",
+    "tags": [
+      "Đồ handmade & trang trí",
+      "Handmade làm sẵn",
+      "đất sét",
+      "cây cảnh",
+      "Đồ làm sẵn"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Cảm ơn"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Chậu cây đất sét là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, đất sét, cây cảnh, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-146",
+    "name": "Đế nhẫn hình thú",
+    "price": 49000,
+    "category": "Đồ handmade & trang trí",
+    "subcategory": "Đồ trang trí & mô hình",
+    "tags": [
+      "Đồ handmade & trang trí",
+      "Handmade làm sẵn",
+      "đế nhẫn",
+      "thú",
+      "decor",
+      "Đồ làm sẵn"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Cảm ơn"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Đế nhẫn hình thú là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, đế nhẫn, thú, decor, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-147",
+    "name": "Mô hình nhân vật chibi đất sét",
+    "price": 69000,
+    "category": "Đồ handmade & trang trí",
+    "subcategory": "Đồ trang trí & mô hình",
+    "tags": [
+      "Đồ handmade & trang trí",
+      "Handmade làm sẵn",
+      "đất sét",
+      "cá nhân hóa",
+      "Đồ làm sẵn",
+      "Trang trí"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Cảm ơn"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Mô hình nhân vật chibi đất sét là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, đất sét, cá nhân hóa, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-148",
+    "name": "Mặt dây chuyền đất sét",
+    "price": 89000,
+    "category": "Đồ handmade & trang trí",
+    "subcategory": "Trang sức & phụ kiện",
+    "tags": [
+      "Đồ handmade & trang trí",
+      "Handmade làm sẵn",
+      "trang sức",
+      "đất sét",
+      "Đồ làm sẵn"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Cảm ơn"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Mặt dây chuyền đất sét là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, trang sức, đất sét, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-149",
+    "name": "Bộ tượng mini theo chủ đề",
+    "price": 109000,
+    "category": "Đồ handmade & trang trí",
+    "subcategory": "Đồ trang trí & mô hình",
+    "tags": [
+      "Đồ handmade & trang trí",
+      "Handmade làm sẵn",
+      "mô hình",
+      "quà tặng",
+      "Đồ làm sẵn"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Cảm ơn"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Bộ tượng mini theo chủ đề là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, mô hình, quà tặng, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-DIY-150",
+    "name": "DIY Kit móc hoa tulip",
+    "price": 229000,
+    "category": "DIY Kit",
+    "subcategory": "DIY Kit",
+    "tags": [
+      "DIY Kit",
+      "DIY",
+      "set làm đồ",
+      "hoa len",
+      "sinh nhật",
+      "Kèm hướng dẫn"
+    ],
+    "occasions": [
+      "Sinh nhật"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "DIY Kit móc hoa tulip là sản phẩm thuộc dòng DIY Kit của BOL — Box of Love. Bộ sản phẩm gồm nguyên liệu cần thiết và hướng dẫn thực hiện; vui lòng kiểm tra nội dung bộ kit trước khi đặt hàng. Tag: DIY Kit, DIY, set làm đồ, hoa len, sinh nhật, Kèm hướng dẫn, Set làm đồ Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-DIY-151",
+    "name": "DIY Kit móc gấu len",
+    "price": 259000,
+    "category": "DIY Kit",
+    "subcategory": "DIY Kit",
+    "tags": [
+      "DIY Kit",
+      "DIY",
+      "set làm đồ",
+      "thú bông",
+      "Kèm hướng dẫn",
+      "Đồ len"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Cảm ơn"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "DIY Kit móc gấu len là sản phẩm thuộc dòng DIY Kit của BOL — Box of Love. Bộ sản phẩm gồm nguyên liệu cần thiết và hướng dẫn thực hiện; vui lòng kiểm tra nội dung bộ kit trước khi đặt hàng. Tag: DIY Kit, DIY, set làm đồ, thú bông, Kèm hướng dẫn, Set làm đồ Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-DIY-152",
+    "name": "DIY Kit móc móc khóa thú",
+    "price": 79000,
+    "category": "DIY Kit",
+    "subcategory": "DIY Kit",
+    "tags": [
+      "DIY Kit",
+      "DIY",
+      "set làm đồ",
+      "móc khóa",
+      "Kèm hướng dẫn"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Cảm ơn"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "DIY Kit móc móc khóa thú là sản phẩm thuộc dòng DIY Kit của BOL — Box of Love. Bộ sản phẩm gồm nguyên liệu cần thiết và hướng dẫn thực hiện; vui lòng kiểm tra nội dung bộ kit trước khi đặt hàng. Tag: DIY Kit, DIY, set làm đồ, móc khóa, Kèm hướng dẫn, Set làm đồ Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-DIY-153",
+    "name": "DIY Kit làm vòng hạt cườm",
+    "price": 99000,
+    "category": "DIY Kit",
+    "subcategory": "DIY Kit",
+    "tags": [
+      "DIY Kit",
+      "DIY",
+      "set làm đồ",
+      "trang sức",
+      "Kèm hướng dẫn"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Cảm ơn"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "DIY Kit làm vòng hạt cườm là sản phẩm thuộc dòng DIY Kit của BOL — Box of Love. Bộ sản phẩm gồm nguyên liệu cần thiết và hướng dẫn thực hiện; vui lòng kiểm tra nội dung bộ kit trước khi đặt hàng. Tag: DIY Kit, DIY, set làm đồ, trang sức, Kèm hướng dẫn, Set làm đồ Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-DIY-154",
+    "name": "DIY Kit làm vòng đôi",
+    "price": 129000,
+    "category": "DIY Kit",
+    "subcategory": "DIY Kit",
+    "tags": [
+      "DIY Kit",
+      "DIY",
+      "set làm đồ",
+      "tình yêu",
+      "Valentine",
+      "Kèm hướng dẫn",
+      "Quà đôi / Kỷ niệm"
+    ],
+    "occasions": [
+      "Valentine",
+      "Kỷ niệm"
+    ],
+    "recipients": [
+      "Người yêu"
+    ],
+    "description": "DIY Kit làm vòng đôi là sản phẩm thuộc dòng DIY Kit của BOL — Box of Love. Bộ sản phẩm gồm nguyên liệu cần thiết và hướng dẫn thực hiện; vui lòng kiểm tra nội dung bộ kit trước khi đặt hàng. Tag: DIY Kit, DIY, set làm đồ, tình yêu, Valentine, Kèm hướng dẫn, Set làm đồ Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-DIY-155",
+    "name": "DIY Kit làm dây chuyền",
+    "price": 149000,
+    "category": "DIY Kit",
+    "subcategory": "DIY Kit",
+    "tags": [
+      "DIY Kit",
+      "DIY",
+      "set làm đồ",
+      "trang sức",
+      "Kèm hướng dẫn"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Cảm ơn"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "DIY Kit làm dây chuyền là sản phẩm thuộc dòng DIY Kit của BOL — Box of Love. Bộ sản phẩm gồm nguyên liệu cần thiết và hướng dẫn thực hiện; vui lòng kiểm tra nội dung bộ kit trước khi đặt hàng. Tag: DIY Kit, DIY, set làm đồ, trang sức, Kèm hướng dẫn, Set làm đồ Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-DIY-156",
+    "name": "DIY Kit làm hoa kẽm nhung",
+    "price": 179000,
+    "category": "DIY Kit",
+    "subcategory": "DIY Kit",
+    "tags": [
+      "DIY Kit",
+      "DIY",
+      "set làm đồ",
+      "hoa",
+      "Kèm hướng dẫn"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Cảm ơn"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "DIY Kit làm hoa kẽm nhung là sản phẩm thuộc dòng DIY Kit của BOL — Box of Love. Bộ sản phẩm gồm nguyên liệu cần thiết và hướng dẫn thực hiện; vui lòng kiểm tra nội dung bộ kit trước khi đặt hàng. Tag: DIY Kit, DIY, set làm đồ, hoa, Kèm hướng dẫn, Set làm đồ Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-DIY-157",
+    "name": "DIY Kit làm hoa giấy",
+    "price": 199000,
+    "category": "DIY Kit",
+    "subcategory": "DIY Kit",
+    "tags": [
+      "DIY Kit",
+      "DIY",
+      "set làm đồ",
+      "hoa giấy",
+      "Kèm hướng dẫn"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Cảm ơn"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "DIY Kit làm hoa giấy là sản phẩm thuộc dòng DIY Kit của BOL — Box of Love. Bộ sản phẩm gồm nguyên liệu cần thiết và hướng dẫn thực hiện; vui lòng kiểm tra nội dung bộ kit trước khi đặt hàng. Tag: DIY Kit, DIY, set làm đồ, hoa giấy, Kèm hướng dẫn, Set làm đồ Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-DIY-158",
+    "name": "DIY Kit thêu tranh mini",
+    "price": 229000,
+    "category": "DIY Kit",
+    "subcategory": "DIY Kit",
+    "tags": [
+      "DIY Kit",
+      "DIY",
+      "set làm đồ",
+      "thêu",
+      "Kèm hướng dẫn"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Cảm ơn"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "DIY Kit thêu tranh mini là sản phẩm thuộc dòng DIY Kit của BOL — Box of Love. Bộ sản phẩm gồm nguyên liệu cần thiết và hướng dẫn thực hiện; vui lòng kiểm tra nội dung bộ kit trước khi đặt hàng. Tag: DIY Kit, DIY, set làm đồ, thêu, Kèm hướng dẫn, Set làm đồ Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-DIY-159",
+    "name": "DIY Kit thêu túi tote",
+    "price": 259000,
+    "category": "DIY Kit",
+    "subcategory": "DIY Kit",
+    "tags": [
+      "DIY Kit",
+      "DIY",
+      "set làm đồ",
+      "túi tote",
+      "Kèm hướng dẫn"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Cảm ơn"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "DIY Kit thêu túi tote là sản phẩm thuộc dòng DIY Kit của BOL — Box of Love. Bộ sản phẩm gồm nguyên liệu cần thiết và hướng dẫn thực hiện; vui lòng kiểm tra nội dung bộ kit trước khi đặt hàng. Tag: DIY Kit, DIY, set làm đồ, túi tote, Kèm hướng dẫn, Set làm đồ Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-DIY-160",
+    "name": "DIY Kit làm thiệp 3D",
+    "price": 79000,
+    "category": "DIY Kit",
+    "subcategory": "DIY Kit",
+    "tags": [
+      "DIY Kit",
+      "DIY",
+      "set làm đồ",
+      "thiệp",
+      "sinh nhật",
+      "Kèm hướng dẫn"
+    ],
+    "occasions": [
+      "Sinh nhật"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "DIY Kit làm thiệp 3D là sản phẩm thuộc dòng DIY Kit của BOL — Box of Love. Bộ sản phẩm gồm nguyên liệu cần thiết và hướng dẫn thực hiện; vui lòng kiểm tra nội dung bộ kit trước khi đặt hàng. Tag: DIY Kit, DIY, set làm đồ, thiệp, sinh nhật, Sinh nhật, Kèm hướng dẫn, Set làm đồ Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-DIY-161",
+    "name": "DIY Kit làm scrapbook",
+    "price": 99000,
+    "category": "DIY Kit",
+    "subcategory": "DIY Kit",
+    "tags": [
+      "DIY Kit",
+      "DIY",
+      "set làm đồ",
+      "scrapbook",
+      "kỷ niệm",
+      "Kèm hướng dẫn"
+    ],
+    "occasions": [
+      "Kỷ niệm"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "DIY Kit làm scrapbook là sản phẩm thuộc dòng DIY Kit của BOL — Box of Love. Bộ sản phẩm gồm nguyên liệu cần thiết và hướng dẫn thực hiện; vui lòng kiểm tra nội dung bộ kit trước khi đặt hàng. Tag: DIY Kit, DIY, set làm đồ, scrapbook, kỷ niệm, Kèm hướng dẫn, Set làm đồ Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-DIY-162",
+    "name": "DIY Kit làm tranh mosaic",
+    "price": 129000,
+    "category": "DIY Kit",
+    "subcategory": "DIY Kit",
+    "tags": [
+      "DIY Kit",
+      "DIY",
+      "set làm đồ",
+      "tranh",
+      "Kèm hướng dẫn"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Cảm ơn"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "DIY Kit làm tranh mosaic là sản phẩm thuộc dòng DIY Kit của BOL — Box of Love. Bộ sản phẩm gồm nguyên liệu cần thiết và hướng dẫn thực hiện; vui lòng kiểm tra nội dung bộ kit trước khi đặt hàng. Tag: DIY Kit, DIY, set làm đồ, tranh, Kèm hướng dẫn, Set làm đồ Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-DIY-163",
+    "name": "DIY Kit nặn đất sét",
+    "price": 149000,
+    "category": "DIY Kit",
+    "subcategory": "DIY Kit",
+    "tags": [
+      "DIY Kit",
+      "DIY",
+      "set làm đồ",
+      "đất sét",
+      "Kèm hướng dẫn"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Cảm ơn"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "DIY Kit nặn đất sét là sản phẩm thuộc dòng DIY Kit của BOL — Box of Love. Bộ sản phẩm gồm nguyên liệu cần thiết và hướng dẫn thực hiện; vui lòng kiểm tra nội dung bộ kit trước khi đặt hàng. Tag: DIY Kit, DIY, set làm đồ, đất sét, Kèm hướng dẫn, Set làm đồ Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-DIY-164",
+    "name": "DIY Kit làm mô hình đồ ăn mini",
+    "price": 179000,
+    "category": "DIY Kit",
+    "subcategory": "DIY Kit",
+    "tags": [
+      "DIY Kit",
+      "DIY",
+      "set làm đồ",
+      "mô hình",
+      "Kèm hướng dẫn",
+      "Trang trí"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Cảm ơn"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "DIY Kit làm mô hình đồ ăn mini là sản phẩm thuộc dòng DIY Kit của BOL — Box of Love. Bộ sản phẩm gồm nguyên liệu cần thiết và hướng dẫn thực hiện; vui lòng kiểm tra nội dung bộ kit trước khi đặt hàng. Tag: DIY Kit, DIY, set làm đồ, mô hình, Kèm hướng dẫn, Set làm đồ Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-DIY-165",
+    "name": "DIY Kit làm nhà gỗ mini",
+    "price": 199000,
+    "category": "DIY Kit",
+    "subcategory": "DIY Kit",
+    "tags": [
+      "DIY Kit",
+      "DIY",
+      "set làm đồ",
+      "gỗ",
+      "Kèm hướng dẫn",
+      "Trang trí"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Cảm ơn"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "DIY Kit làm nhà gỗ mini là sản phẩm thuộc dòng DIY Kit của BOL — Box of Love. Bộ sản phẩm gồm nguyên liệu cần thiết và hướng dẫn thực hiện; vui lòng kiểm tra nội dung bộ kit trước khi đặt hàng. Tag: DIY Kit, DIY, set làm đồ, gỗ, Kèm hướng dẫn, Set làm đồ Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-DIY-166",
+    "name": "DIY Kit làm mô hình phòng ngủ",
+    "price": 229000,
+    "category": "DIY Kit",
+    "subcategory": "DIY Kit",
+    "tags": [
+      "DIY Kit",
+      "DIY",
+      "set làm đồ",
+      "mô hình",
+      "Kèm hướng dẫn",
+      "Trang trí"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Cảm ơn"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "DIY Kit làm mô hình phòng ngủ là sản phẩm thuộc dòng DIY Kit của BOL — Box of Love. Bộ sản phẩm gồm nguyên liệu cần thiết và hướng dẫn thực hiện; vui lòng kiểm tra nội dung bộ kit trước khi đặt hàng. Tag: DIY Kit, DIY, set làm đồ, mô hình, Kèm hướng dẫn, Set làm đồ Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-DIY-167",
+    "name": "DIY Kit làm quán cà phê mini",
+    "price": 259000,
+    "category": "DIY Kit",
+    "subcategory": "DIY Kit",
+    "tags": [
+      "DIY Kit",
+      "DIY",
+      "set làm đồ",
+      "mô hình",
+      "Kèm hướng dẫn"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Cảm ơn"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "DIY Kit làm quán cà phê mini là sản phẩm thuộc dòng DIY Kit của BOL — Box of Love. Bộ sản phẩm gồm nguyên liệu cần thiết và hướng dẫn thực hiện; vui lòng kiểm tra nội dung bộ kit trước khi đặt hàng. Tag: DIY Kit, DIY, set làm đồ, mô hình, Kèm hướng dẫn, Set làm đồ Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-DIY-168",
+    "name": "DIY Kit làm khung ảnh",
+    "price": 79000,
+    "category": "DIY Kit",
+    "subcategory": "DIY Kit",
+    "tags": [
+      "DIY Kit",
+      "DIY",
+      "set làm đồ",
+      "khung ảnh",
+      "Kèm hướng dẫn"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Cảm ơn"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "DIY Kit làm khung ảnh là sản phẩm thuộc dòng DIY Kit của BOL — Box of Love. Bộ sản phẩm gồm nguyên liệu cần thiết và hướng dẫn thực hiện; vui lòng kiểm tra nội dung bộ kit trước khi đặt hàng. Tag: DIY Kit, DIY, set làm đồ, khung ảnh, Kèm hướng dẫn, Set làm đồ Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-DIY-169",
+    "name": "DIY Kit làm hộp quà",
+    "price": 99000,
+    "category": "DIY Kit",
+    "subcategory": "DIY Kit",
+    "tags": [
+      "DIY Kit",
+      "DIY",
+      "set làm đồ",
+      "hộp quà",
+      "Kèm hướng dẫn"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Cảm ơn"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "DIY Kit làm hộp quà là sản phẩm thuộc dòng DIY Kit của BOL — Box of Love. Bộ sản phẩm gồm nguyên liệu cần thiết và hướng dẫn thực hiện; vui lòng kiểm tra nội dung bộ kit trước khi đặt hàng. Tag: DIY Kit, DIY, set làm đồ, hộp quà, Kèm hướng dẫn, Set làm đồ Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-DIY-170",
+    "name": "DIY Kit trang trí cốc",
+    "price": 129000,
+    "category": "DIY Kit",
+    "subcategory": "DIY Kit",
+    "tags": [
+      "DIY Kit",
+      "DIY",
+      "set làm đồ",
+      "cốc",
+      "Kèm hướng dẫn"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Cảm ơn"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "DIY Kit trang trí cốc là sản phẩm thuộc dòng DIY Kit của BOL — Box of Love. Bộ sản phẩm gồm nguyên liệu cần thiết và hướng dẫn thực hiện; vui lòng kiểm tra nội dung bộ kit trước khi đặt hàng. Tag: DIY Kit, DIY, set làm đồ, cốc, Kèm hướng dẫn, Set làm đồ Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-DIY-171",
+    "name": "DIY Kit vẽ túi tote",
+    "price": 149000,
+    "category": "DIY Kit",
+    "subcategory": "DIY Kit",
+    "tags": [
+      "DIY Kit",
+      "DIY",
+      "set làm đồ",
+      "túi tote",
+      "Kèm hướng dẫn"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Cảm ơn"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "DIY Kit vẽ túi tote là sản phẩm thuộc dòng DIY Kit của BOL — Box of Love. Bộ sản phẩm gồm nguyên liệu cần thiết và hướng dẫn thực hiện; vui lòng kiểm tra nội dung bộ kit trước khi đặt hàng. Tag: DIY Kit, DIY, set làm đồ, túi tote, Kèm hướng dẫn, Set làm đồ Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-DIY-172",
+    "name": "DIY Kit vẽ tranh canvas",
+    "price": 179000,
+    "category": "DIY Kit",
+    "subcategory": "DIY Kit",
+    "tags": [
+      "DIY Kit",
+      "DIY",
+      "set làm đồ",
+      "tranh",
+      "Kèm hướng dẫn"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Cảm ơn"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "DIY Kit vẽ tranh canvas là sản phẩm thuộc dòng DIY Kit của BOL — Box of Love. Bộ sản phẩm gồm nguyên liệu cần thiết và hướng dẫn thực hiện; vui lòng kiểm tra nội dung bộ kit trước khi đặt hàng. Tag: DIY Kit, DIY, set làm đồ, tranh, Kèm hướng dẫn, Set làm đồ Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-DIY-173",
+    "name": "DIY Kit làm dreamcatcher",
+    "price": 199000,
+    "category": "DIY Kit",
+    "subcategory": "DIY Kit",
+    "tags": [
+      "DIY Kit",
+      "DIY",
+      "set làm đồ",
+      "decor",
+      "Kèm hướng dẫn"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Cảm ơn"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "DIY Kit làm dreamcatcher là sản phẩm thuộc dòng DIY Kit của BOL — Box of Love. Bộ sản phẩm gồm nguyên liệu cần thiết và hướng dẫn thực hiện; vui lòng kiểm tra nội dung bộ kit trước khi đặt hàng. Tag: DIY Kit, DIY, set làm đồ, decor, Kèm hướng dẫn, Set làm đồ Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-DIY-174",
+    "name": "DIY Kit đan macrame",
+    "price": 229000,
+    "category": "DIY Kit",
+    "subcategory": "DIY Kit",
+    "tags": [
+      "DIY Kit",
+      "DIY",
+      "set làm đồ",
+      "macrame",
+      "Kèm hướng dẫn",
+      "Đồ len"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Cảm ơn"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "DIY Kit đan macrame là sản phẩm thuộc dòng DIY Kit của BOL — Box of Love. Bộ sản phẩm gồm nguyên liệu cần thiết và hướng dẫn thực hiện; vui lòng kiểm tra nội dung bộ kit trước khi đặt hàng. Tag: DIY Kit, DIY, set làm đồ, macrame, Kèm hướng dẫn, Set làm đồ Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-DIY-175",
+    "name": "DIY Kit làm chuông gió",
+    "price": 259000,
+    "category": "DIY Kit",
+    "subcategory": "DIY Kit",
+    "tags": [
+      "DIY Kit",
+      "DIY",
+      "set làm đồ",
+      "chuông gió",
+      "Kèm hướng dẫn"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Cảm ơn"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "DIY Kit làm chuông gió là sản phẩm thuộc dòng DIY Kit của BOL — Box of Love. Bộ sản phẩm gồm nguyên liệu cần thiết và hướng dẫn thực hiện; vui lòng kiểm tra nội dung bộ kit trước khi đặt hàng. Tag: DIY Kit, DIY, set làm đồ, chuông gió, Kèm hướng dẫn, Set làm đồ Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-DIY-176",
+    "name": "DIY Kit làm nến thơm",
+    "price": 79000,
+    "category": "DIY Kit",
+    "subcategory": "DIY Kit",
+    "tags": [
+      "DIY Kit",
+      "DIY",
+      "set làm đồ",
+      "nến",
+      "Giáng sinh",
+      "Kèm hướng dẫn"
+    ],
+    "occasions": [
+      "Giáng sinh"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "DIY Kit làm nến thơm là sản phẩm thuộc dòng DIY Kit của BOL — Box of Love. Bộ sản phẩm gồm nguyên liệu cần thiết và hướng dẫn thực hiện; vui lòng kiểm tra nội dung bộ kit trước khi đặt hàng. Tag: DIY Kit, DIY, set làm đồ, nến, Giáng sinh, Kèm hướng dẫn, Set làm đồ Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-DIY-177",
+    "name": "DIY Kit làm sáp thơm",
+    "price": 99000,
+    "category": "DIY Kit",
+    "subcategory": "DIY Kit",
+    "tags": [
+      "DIY Kit",
+      "DIY",
+      "set làm đồ",
+      "sáp thơm",
+      "Kèm hướng dẫn"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Cảm ơn"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "DIY Kit làm sáp thơm là sản phẩm thuộc dòng DIY Kit của BOL — Box of Love. Bộ sản phẩm gồm nguyên liệu cần thiết và hướng dẫn thực hiện; vui lòng kiểm tra nội dung bộ kit trước khi đặt hàng. Tag: DIY Kit, DIY, set làm đồ, sáp thơm, Kèm hướng dẫn, Set làm đồ Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-DIY-178",
+    "name": "DIY Kit trang trí gương",
+    "price": 129000,
+    "category": "DIY Kit",
+    "subcategory": "DIY Kit",
+    "tags": [
+      "DIY Kit",
+      "DIY",
+      "set làm đồ",
+      "gương",
+      "Kèm hướng dẫn"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Cảm ơn"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "DIY Kit trang trí gương là sản phẩm thuộc dòng DIY Kit của BOL — Box of Love. Bộ sản phẩm gồm nguyên liệu cần thiết và hướng dẫn thực hiện; vui lòng kiểm tra nội dung bộ kit trước khi đặt hàng. Tag: DIY Kit, DIY, set làm đồ, gương, Kèm hướng dẫn, Set làm đồ Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-DIY-179",
+    "name": "DIY Kit làm quà đôi cá nhân hóa",
+    "price": 149000,
+    "category": "DIY Kit",
+    "subcategory": "DIY Kit",
+    "tags": [
+      "DIY Kit",
+      "DIY",
+      "set làm đồ",
+      "quà đôi",
+      "Valentine",
+      "Kèm hướng dẫn",
+      "Quà đôi / Kỷ niệm",
+      "Cá nhân hóa"
+    ],
+    "occasions": [
+      "Valentine",
+      "Kỷ niệm"
+    ],
+    "recipients": [
+      "Người yêu"
+    ],
+    "description": "DIY Kit làm quà đôi cá nhân hóa là sản phẩm thuộc dòng DIY Kit của BOL — Box of Love. Bộ sản phẩm gồm nguyên liệu cần thiết và hướng dẫn thực hiện; vui lòng kiểm tra nội dung bộ kit trước khi đặt hàng. Tag: DIY Kit, DIY, set làm đồ, quà đôi, Valentine, Kèm hướng dẫn, Set làm đồ Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-SET-180",
+    "name": "Hộp quà hoa len và thiệp",
+    "price": 329000,
+    "category": "Thiệp & lời nhắn",
+    "subcategory": "Thiệp, album & lưu niệm",
+    "tags": [
+      "Thiệp & lời nhắn",
+      "Set quà handmade",
+      "set quà",
+      "hoa len",
+      "thiệp",
+      "sinh nhật",
+      "Quà tặng",
+      "Đồ len"
+    ],
+    "occasions": [
+      "Sinh nhật"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Hộp quà hoa len và thiệp là sản phẩm thuộc dòng Set quà handmade của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Set quà handmade, set quà, hoa len, thiệp, sinh nhật, Set quà, Quà tặng Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-SET-181",
+    "name": "Hộp quà gấu bông và vòng tay",
+    "price": 359000,
+    "category": "Hộp quà & set quà",
+    "subcategory": "Hộp quà & set quà",
+    "tags": [
+      "Hộp quà & set quà",
+      "Set quà handmade",
+      "set quà",
+      "thú bông",
+      "vòng tay",
+      "Valentine",
+      "Quà tặng"
+    ],
+    "occasions": [
+      "Valentine"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Hộp quà gấu bông và vòng tay là sản phẩm thuộc dòng Set quà handmade của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Set quà handmade, set quà, thú bông, vòng tay, Valentine, Set quà, Quà tặng Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-SET-182",
+    "name": "Hộp quà cốc vẽ tay",
+    "price": 159000,
+    "category": "Hộp quà & set quà",
+    "subcategory": "Hộp quà & set quà",
+    "tags": [
+      "Hộp quà & set quà",
+      "Set quà handmade",
+      "set quà",
+      "cốc",
+      "sinh nhật",
+      "Quà tặng"
+    ],
+    "occasions": [
+      "Sinh nhật"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Hộp quà cốc vẽ tay là sản phẩm thuộc dòng Set quà handmade của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Set quà handmade, set quà, cốc, sinh nhật, Set quà, Quà tặng Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-SET-183",
+    "name": "Hộp quà nến thơm và hoa khô",
+    "price": 199000,
+    "category": "Hộp quà & set quà",
+    "subcategory": "Hộp quà & set quà",
+    "tags": [
+      "Hộp quà & set quà",
+      "Set quà handmade",
+      "set quà",
+      "nến",
+      "hoa khô",
+      "Giáng sinh",
+      "Quà tặng"
+    ],
+    "occasions": [
+      "Giáng sinh"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Hộp quà nến thơm và hoa khô là sản phẩm thuộc dòng Set quà handmade của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Set quà handmade, set quà, nến, hoa khô, Giáng sinh, Set quà, Quà tặng Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-SET-184",
+    "name": "Hộp quà scrapbook và ảnh",
+    "price": 229000,
+    "category": "Thiệp & lời nhắn",
+    "subcategory": "Thiệp, album & lưu niệm",
+    "tags": [
+      "Thiệp & lời nhắn",
+      "Set quà handmade",
+      "set quà",
+      "scrapbook",
+      "kỷ niệm",
+      "Quà tặng"
+    ],
+    "occasions": [
+      "Kỷ niệm"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Hộp quà scrapbook và ảnh là sản phẩm thuộc dòng Set quà handmade của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Set quà handmade, set quà, scrapbook, kỷ niệm, Set quà, Quà tặng Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-SET-185",
+    "name": "Hộp quà vòng đôi và thiệp",
+    "price": 259000,
+    "category": "Thiệp & lời nhắn",
+    "subcategory": "Thiệp, album & lưu niệm",
+    "tags": [
+      "Thiệp & lời nhắn",
+      "Set quà handmade",
+      "set quà",
+      "vòng đôi",
+      "Valentine",
+      "Quà tặng",
+      "Quà đôi / Kỷ niệm"
+    ],
+    "occasions": [
+      "Valentine",
+      "Kỷ niệm"
+    ],
+    "recipients": [
+      "Người yêu"
+    ],
+    "description": "Hộp quà vòng đôi và thiệp là sản phẩm thuộc dòng Set quà handmade của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Set quà handmade, set quà, vòng đôi, Valentine, Set quà, Quà tặng Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-SET-186",
+    "name": "Hộp quà tốt nghiệp",
+    "price": 299000,
+    "category": "Hộp quà & set quà",
+    "subcategory": "Hộp quà & set quà",
+    "tags": [
+      "Hộp quà & set quà",
+      "Set quà handmade",
+      "set quà",
+      "tốt nghiệp",
+      "Quà tặng"
+    ],
+    "occasions": [
+      "Tốt nghiệp"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Hộp quà tốt nghiệp là sản phẩm thuộc dòng Set quà handmade của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Set quà handmade, set quà, tốt nghiệp, Tốt nghiệp, Set quà, Quà tặng Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-SET-187",
+    "name": "Hộp quà sinh nhật handmade",
+    "price": 329000,
+    "category": "Hộp quà & set quà",
+    "subcategory": "Hộp quà & set quà",
+    "tags": [
+      "Hộp quà & set quà",
+      "Set quà handmade",
+      "set quà",
+      "sinh nhật",
+      "Quà tặng"
+    ],
+    "occasions": [
+      "Sinh nhật"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Hộp quà sinh nhật handmade là sản phẩm thuộc dòng Set quà handmade của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Set quà handmade, set quà, sinh nhật, Sinh nhật, Set quà, Quà tặng Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-SET-188",
+    "name": "Hộp quà kỷ niệm tình yêu",
+    "price": 359000,
+    "category": "Hộp quà & set quà",
+    "subcategory": "Hộp quà & set quà",
+    "tags": [
+      "Hộp quà & set quà",
+      "Set quà handmade",
+      "set quà",
+      "tình yêu",
+      "kỷ niệm",
+      "Quà tặng",
+      "Quà đôi / Kỷ niệm"
+    ],
+    "occasions": [
+      "Kỷ niệm"
+    ],
+    "recipients": [
+      "Người yêu"
+    ],
+    "description": "Hộp quà kỷ niệm tình yêu là sản phẩm thuộc dòng Set quà handmade của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Set quà handmade, set quà, tình yêu, kỷ niệm, Set quà, Quà tặng Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "assets/anniversary-box.jpg",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-SET-189",
+    "name": "Hộp quà DIY Kit kèm thiệp",
+    "price": 159000,
+    "category": "DIY Kit",
+    "subcategory": "DIY Kit",
+    "tags": [
+      "DIY Kit",
+      "Set quà handmade",
+      "set quà",
+      "DIY",
+      "thiệp",
+      "Quà tặng"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Cảm ơn"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Hộp quà DIY Kit kèm thiệp là sản phẩm thuộc dòng Set quà handmade của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Set quà handmade, set quà, DIY, thiệp, Set quà, Quà tặng Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-190",
+    "name": "Móc khóa in ảnh cá nhân",
+    "price": 129000,
+    "category": "Đồ handmade & trang trí",
+    "subcategory": "Quà cá nhân hóa",
+    "tags": [
+      "Đồ handmade & trang trí",
+      "Handmade làm sẵn",
+      "móc khóa",
+      "ảnh",
+      "cá nhân hóa",
+      "Đồ làm sẵn"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Cảm ơn"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Móc khóa in ảnh cá nhân là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, móc khóa, ảnh, cá nhân hóa, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-191",
+    "name": "Khung ảnh đôi trang trí tay",
+    "price": 329000,
+    "category": "Đồ handmade & trang trí",
+    "subcategory": "Quà cá nhân hóa",
+    "tags": [
+      "Đồ handmade & trang trí",
+      "Handmade làm sẵn",
+      "khung ảnh",
+      "tình yêu",
+      "kỷ niệm",
+      "Đồ làm sẵn"
+    ],
+    "occasions": [
+      "Kỷ niệm"
+    ],
+    "recipients": [
+      "Người yêu"
+    ],
+    "description": "Khung ảnh đôi trang trí tay là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, khung ảnh, tình yêu, kỷ niệm, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-192",
+    "name": "Tranh chân dung thú cưng",
+    "price": 129000,
+    "category": "Đồ handmade & trang trí",
+    "subcategory": "Đồ trang trí & mô hình",
+    "tags": [
+      "Đồ handmade & trang trí",
+      "Handmade làm sẵn",
+      "tranh",
+      "thú cưng",
+      "cá nhân hóa",
+      "Đồ làm sẵn"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Cảm ơn"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Tranh chân dung thú cưng là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, tranh, thú cưng, cá nhân hóa, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-193",
+    "name": "Tranh chân dung cặp đôi",
+    "price": 159000,
+    "category": "Đồ handmade & trang trí",
+    "subcategory": "Đồ trang trí & mô hình",
+    "tags": [
+      "Đồ handmade & trang trí",
+      "Handmade làm sẵn",
+      "tranh",
+      "cặp đôi",
+      "cá nhân hóa",
+      "Đồ làm sẵn",
+      "Quà đôi / Kỷ niệm"
+    ],
+    "occasions": [
+      "Kỷ niệm"
+    ],
+    "recipients": [
+      "Người yêu"
+    ],
+    "description": "Tranh chân dung cặp đôi là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, tranh, cặp đôi, cá nhân hóa, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-194",
+    "name": "Mô hình đôi nhân vật theo yêu cầu",
+    "price": 49000,
+    "category": "Đồ handmade & trang trí",
+    "subcategory": "Đồ trang trí & mô hình",
+    "tags": [
+      "Đồ handmade & trang trí",
+      "Handmade làm sẵn",
+      "mô hình",
+      "cá nhân hóa",
+      "tình yêu",
+      "Đồ làm sẵn",
+      "Trang trí"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Cảm ơn"
+    ],
+    "recipients": [
+      "Người yêu"
+    ],
+    "description": "Mô hình đôi nhân vật theo yêu cầu là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, mô hình, cá nhân hóa, tình yêu, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-195",
+    "name": "Hộp ký ức kỷ niệm",
+    "price": 69000,
+    "category": "Thiệp & lời nhắn",
+    "subcategory": "Thiệp, album & lưu niệm",
+    "tags": [
+      "Thiệp & lời nhắn",
+      "Handmade làm sẵn",
+      "hộp quà",
+      "kỷ niệm",
+      "Đồ làm sẵn",
+      "Quà đôi / Kỷ niệm"
+    ],
+    "occasions": [
+      "Kỷ niệm"
+    ],
+    "recipients": [
+      "Người yêu"
+    ],
+    "description": "Hộp ký ức kỷ niệm là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, hộp quà, kỷ niệm, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-196",
+    "name": "Lọ lời nhắn yêu thương",
+    "price": 89000,
+    "category": "Thiệp & lời nhắn",
+    "subcategory": "Thiệp, album & lưu niệm",
+    "tags": [
+      "Thiệp & lời nhắn",
+      "Handmade làm sẵn",
+      "lọ lời nhắn",
+      "tình yêu",
+      "Valentine",
+      "Đồ làm sẵn"
+    ],
+    "occasions": [
+      "Valentine"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Lọ lời nhắn yêu thương là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, lọ lời nhắn, tình yêu, Valentine, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-197",
+    "name": "Hộp 365 lời nhắn",
+    "price": 329000,
+    "category": "Thiệp & lời nhắn",
+    "subcategory": "Thiệp, album & lưu niệm",
+    "tags": [
+      "Thiệp & lời nhắn",
+      "Handmade làm sẵn",
+      "hộp quà",
+      "lời nhắn",
+      "sinh nhật",
+      "Đồ làm sẵn"
+    ],
+    "occasions": [
+      "Sinh nhật"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Hộp 365 lời nhắn là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, hộp quà, lời nhắn, sinh nhật, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-HM-198",
+    "name": "Bản đồ kỷ niệm cá nhân hóa",
+    "price": 129000,
+    "category": "Thiệp & lời nhắn",
+    "subcategory": "Thiệp, album & lưu niệm",
+    "tags": [
+      "Thiệp & lời nhắn",
+      "Handmade làm sẵn",
+      "bản đồ",
+      "cá nhân hóa",
+      "kỷ niệm",
+      "Đồ làm sẵn",
+      "Quà đôi / Kỷ niệm"
+    ],
+    "occasions": [
+      "Kỷ niệm"
+    ],
+    "recipients": [
+      "Người yêu"
+    ],
+    "description": "Bản đồ kỷ niệm cá nhân hóa là sản phẩm thuộc dòng Handmade làm sẵn của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Handmade làm sẵn, bản đồ, cá nhân hóa, kỷ niệm, Đồ làm sẵn Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-SET-199",
+    "name": "Hộp quà thiết kế theo câu chuyện riêng",
+    "price": 259000,
+    "category": "Hộp quà & set quà",
+    "subcategory": "Hộp quà & set quà",
+    "tags": [
+      "Hộp quà & set quà",
+      "Set quà handmade",
+      "set quà",
+      "cá nhân hóa",
+      "sinh nhật",
+      "Tết",
+      "Quà tặng"
+    ],
+    "occasions": [
+      "Sinh nhật"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Hộp quà thiết kế theo câu chuyện riêng là sản phẩm thuộc dòng Set quà handmade của BOL — Box of Love. Sản phẩm handmade dùng làm quà tặng hoặc trang trí. Mẫu mã, chất liệu và tùy chọn cá nhân hóa cần được xác nhận trước khi bán chính thức. Tag: Set quà handmade, set quà, cá nhân hóa, sinh nhật, Tết, Set quà, Quà tặng Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  },
+  {
+    "id": "BOL-DIY-200",
+    "name": "DIY Kit làm thiệp Tết",
+    "price": 99000,
+    "category": "DIY Kit",
+    "subcategory": "DIY Kit",
+    "tags": [
+      "DIY Kit",
+      "Set làm đồ",
+      "Kèm hướng dẫn",
+      "Tết",
+      "Thiệp",
+      "Quà Tết"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Cảm ơn"
+    ],
+    "recipients": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "DIY Kit làm thiệp Tết thuộc dòng DIY Kit của BOL — Box of Love. Bộ kit minh họa để khách tự tay làm thiệp chúc Tết, gồm nguyên liệu và hướng dẫn thực hiện; cần xác nhận danh sách vật liệu thực tế trước khi bán. Tag: DIY Kit, Set làm đồ, Kèm hướng dẫn, Tết, Thiệp, Quà Tết, Đồ làm sẵn? Không Giá trong file là giá demo tham khảo, cần xác minh trước khi mở bán.",
+    "stockDemo": true,
+    "image": "",
+    "modelGlb": "",
+    "modelUsdz": ""
+  }
+]

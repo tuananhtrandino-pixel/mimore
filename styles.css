@@ -1,0 +1,1199 @@
+:root{--cream:#F7F0E6;--paper:#fffdf9;--rose:#D99A9A;--sage:#A8B7A0;--brown:#6B493D;--ink:#382820;--muted:#8c786d;--line:#e8ddd1;--shadow:0 18px 50px #49322512}*{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;background:var(--paper);color:var(--ink);font-family:'Be Vietnam Pro',Arial,sans-serif;font-size:14px}a{color:inherit;text-decoration:none}button,input,select,textarea{font:inherit}button{cursor:pointer}.wrap{width:min(1180px,90%);margin-inline:auto}.announcement{background:var(--brown);color:#fff8ef;text-align:center;padding:9px 15px;font-size:10px;letter-spacing:.16em}.announcement span{margin-left:18px;letter-spacing:.04em;opacity:.85}.site-header{height:82px;padding:0 max(5%,calc((100% - 1280px)/2));display:flex;align-items:center;justify-content:space-between;background:#fffdf9ed;border-bottom:1px solid var(--line);position:sticky;top:0;z-index:30;backdrop-filter:blur(12px)}.brand{display:flex;align-items:center;gap:12px;color:var(--brown)}.brand-mark{font:700 31px 'Playfair Display',Georgia,serif;border-bottom:2px solid var(--brown);line-height:1.1}.brand small{font-size:9px;letter-spacing:.22em}.site-nav{display:flex;align-items:center;gap:30px;font-size:12px;color:#71594d}.site-nav a{padding:10px 0;border-bottom:1px solid transparent}.site-nav a:hover,.site-nav a.active{color:var(--brown);border-color:var(--rose)}.header-actions{display:flex;gap:10px;align-items:center}.cart-link{border:1px solid var(--line);border-radius:99px;padding:10px 15px;background:#fffaf4;color:var(--brown);font-size:12px}.cart-link b{display:inline-grid;place-items:center;background:var(--brown);color:white;width:21px;height:21px;border-radius:50%;margin-left:5px;font-size:10px}.menu-toggle{display:none;border:0;background:none;font-size:24px;color:var(--brown)}.hero{min-height:560px;display:grid;grid-template-columns:1.05fr .95fr;align-items:center;gap:70px;padding-block:70px}.eyebrow{font-size:10px;letter-spacing:.23em;font-weight:700;color:#a77a65;margin:0 0 18px}.hero h1,.page-hero h1,.success-wrap h1{font:500 clamp(42px,5.5vw,68px)/1.14 'Playfair Display',Georgia,serif;color:var(--brown);margin:0 0 22px}.hero h1 em,.feature-band em,.story-copy em{color:#b9827d;font-weight:500}.lead{font-size:14px;line-height:2;color:#806e62;max-width:500px}.actions{display:flex;gap:12px;flex-wrap:wrap;margin-top:28px}.btn{display:inline-flex;align-items:center;justify-content:center;border:1px solid transparent;border-radius:3px;padding:13px 22px;font-size:11px;font-weight:600;letter-spacing:.04em;transition:.2s}.btn:hover{transform:translateY(-2px)}.primary{background:var(--brown);color:#fffaf4}.primary:hover{background:#51372e}.outline{border-color:#bda99a;color:var(--brown);background:transparent}.light{background:#fffaf4;color:var(--brown)}.full{width:100%}.micro{font-size:9px;letter-spacing:.2em;color:#a58e7e;margin-top:35px}.hero-art{height:390px;position:relative;background:linear-gradient(135deg,#f1e3d5,#e5c9c0 55%,#d8dfd1);border-radius:48% 48% 8px 8px;overflow:hidden;display:grid;place-items:center}.hero-art:before,.hero-art:after{content:'✿';position:absolute;color:#fff8ef66;font-size:120px}.hero-art:before{top:20px;left:30px}.hero-art:after{right:25px;bottom:0;font-size:160px}.art-card{position:absolute;display:grid;place-items:center;text-align:center;box-shadow:var(--shadow);font-family:'Playfair Display',serif;color:var(--brown)}.art-card span{font-size:48px;color:#b77d7d}.art-card b{font-size:22px;font-weight:500}.art-one{width:205px;height:245px;background:#fffaf4;transform:rotate(-8deg);left:19%;top:18%;border:9px solid #fff}.art-two{width:190px;height:220px;background:#dce3d5;transform:rotate(9deg);right:14%;bottom:10%;border:8px solid #f8f3ea}.art-note{position:absolute;bottom:18px;left:0;right:0;text-align:center;font-size:8px;letter-spacing:.22em;color:#775e51}.section{padding-block:75px}.section-head{display:flex;justify-content:space-between;align-items:end;gap:20px;margin-bottom:28px}.section-head h2,.feature-inner h2,.story-copy h2,.values h2,.newsletter h2{font:500 clamp(30px,3.5vw,43px)/1.2 'Playfair Display',Georgia,serif;color:var(--brown);margin:0 0 10px}.muted{color:var(--muted)}.text-link{font-size:11px;color:var(--brown);border-bottom:1px solid #c9a99b;padding-bottom:6px}.category-grid{display:grid;grid-template-columns:repeat(5,1fr);gap:15px}.category-card{background:#f8f1e9;padding:20px 14px;text-align:center;border:1px solid #efe5da;transition:.2s}.category-card:hover{transform:translateY(-4px);box-shadow:var(--shadow)}.category-symbol{height:95px;display:grid;place-items:center;font:50px 'Playfair Display',serif;color:#b9827d}.category-card h3{font:500 15px 'Playfair Display',serif;color:var(--brown);margin:8px 0}.category-card p{font-size:10px;line-height:1.7;color:var(--muted);margin:0}.feature-band{background:var(--sage);padding:70px 0;text-align:center;color:var(--brown)}.feature-inner h2{margin-bottom:25px}.product-grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:18px}.product-card{background:white;border:1px solid var(--line);min-width:0;transition:.2s;position:relative}.product-card:hover{transform:translateY(-4px);box-shadow:var(--shadow)}.product-visual{height:210px;display:grid;place-items:center;position:relative;overflow:hidden;background:linear-gradient(145deg,#f5e7dc,#e5e9df)}.product-visual:before{content:'';position:absolute;width:145px;height:145px;border-radius:50%;background:#ffffff70}.product-visual .symbol{position:relative;font:76px 'Playfair Display',serif;color:#a97871}.product-visual img{width:100%;height:100%;object-fit:cover;position:absolute;inset:0}.product-badge{position:absolute;top:12px;left:12px;background:#fffaf0d9;padding:6px 9px;border-radius:20px;font-size:9px;color:var(--brown)}.product-info{padding:15px}.product-info h3{font:500 16px 'Playfair Display',serif;color:var(--brown);margin:0 0 7px;min-height:40px}.product-meta{font-size:10px;color:var(--muted);min-height:18px}.price{font-size:14px;font-weight:700;color:var(--brown);margin:10px 0 13px}.product-actions{display:flex;gap:8px}.product-actions button{flex:1;padding:10px 7px;font-size:10px;border:1px solid var(--brown);background:var(--brown);color:white}.product-actions .secondary{background:transparent;color:var(--brown)}.newsletter{text-align:center;background:#f3e9df;padding:65px 15px}.newsletter p:not(.eyebrow){color:var(--muted);margin:10px 0 25px}.site-footer{background:var(--brown);color:#f7f0e6;padding:55px 0 25px}.footer-grid{display:grid;grid-template-columns:1.4fr 1fr 1fr 1fr;gap:35px}.footer-brand h2{font:500 38px 'Playfair Display',serif;margin:0 0 12px}.footer-grid h3{font:600 13px 'Be Vietnam Pro',sans-serif;margin:0 0 15px}.footer-grid p,.footer-grid a{display:block;color:#f7f0e6b8;font-size:11px;line-height:2;margin:0}.footer-grid a:hover{color:white}.footer-bottom{border-top:1px solid #ffffff35;margin-top:35px;padding-top:20px;font-size:10px;color:#f7f0e6a8;display:flex;justify-content:space-between;gap:15px;flex-wrap:wrap}.page-hero{background:#f4e9df;padding:65px 0 55px}.page-hero h1{font-size:52px;margin-bottom:12px}.page-hero p:not(.eyebrow){color:var(--muted)}.page-hero.compact{padding:45px 0}.crumb{font-size:10px;color:#a18c7f;margin-top:22px}.crumb a{text-decoration:underline}.shop-layout{display:grid;grid-template-columns:245px 1fr;gap:35px;align-items:start}.filter-panel{background:#f8f2eb;padding:22px;border:1px solid var(--line)}.filter-panel h3{font:500 20px 'Playfair Display',serif;color:var(--brown);margin:0 0 20px}.field-label{display:block;font-size:10px;color:#806e62;margin:14px 0 7px}.filter-panel input,.filter-panel select,.form-field input,.form-field textarea,.form-field select{width:100%;padding:12px;border:1px solid #dfd3c7;background:#fffdf9;color:var(--ink);border-radius:2px;outline:none}.filter-panel input:focus,.filter-panel select:focus,.form-field input:focus,.form-field textarea:focus{border-color:#b9827d}.filter-panel .btn{margin-top:20px}.results-top{display:flex;justify-content:space-between;gap:12px;font-size:11px;margin-bottom:18px}.results-top .muted{font-size:10px}.pagination{text-align:center;padding:30px}.story{display:grid;grid-template-columns:.9fr 1.1fr;gap:75px;align-items:center}.story-art{height:380px;background:linear-gradient(145deg,#e9d5c8,#dce4d7);display:grid;place-items:center;position:relative;overflow:hidden}.story-stamp{width:220px;height:260px;background:#fffaf3;display:grid;place-content:center;text-align:center;box-shadow:var(--shadow);font:500 56px 'Playfair Display',serif;color:var(--brown);transform:rotate(-7deg)}.story-stamp small{font:10px 'Be Vietnam Pro',sans-serif;letter-spacing:.2em}.story-flower{position:absolute;right:20px;bottom:8px;font-size:110px;color:#fff9}.story-copy p:not(.eyebrow){font-size:13px;line-height:2;color:#806e62}.signature{font:italic 22px 'Playfair Display',serif;color:#b9827d!important}.values{background:#f8f2eb;padding:70px 0;text-align:center}.value-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:18px;margin-top:35px}.value-grid article{background:#fffdf9;padding:30px 20px}.value-grid span{font-size:35px;color:#b9827d}.value-grid h3{font:500 20px 'Playfair Display',serif;color:var(--brown)}.value-grid p{font-size:11px;color:var(--muted)}.cart-layout{display:grid;grid-template-columns:1.5fr .8fr;gap:28px;align-items:start}.cart-table{background:white;border:1px solid var(--line)}.cart-row{display:grid;grid-template-columns:1fr auto auto;gap:20px;align-items:center;padding:20px;border-bottom:1px solid var(--line)}.cart-row:last-child{border-bottom:0}.cart-product{display:flex;gap:15px;align-items:center}.mini-visual{width:72px;height:72px;display:grid;place-items:center;background:#f2e7dd;color:#a97871;font-size:32px}.cart-product b{display:block;font:500 15px 'Playfair Display',serif;color:var(--brown)}.cart-product small{font-size:10px;color:var(--muted)}.qty-control{display:flex;align-items:center;border:1px solid var(--line)}.qty-control button{width:32px;height:34px;border:0;background:#faf5ef;color:var(--brown)}.qty-control span{min-width:30px;text-align:center;font-size:11px}.remove-btn{border:0;background:none;color:#a76f6b;font-size:10px;text-decoration:underline}.summary-card{background:#f8f2eb;border:1px solid var(--line);padding:24px}.summary-card h3{font:500 23px 'Playfair Display',serif;color:var(--brown);margin:0 0 20px}.summary-line{display:flex;justify-content:space-between;gap:15px;font-size:11px;margin:13px 0;color:#806e62}.summary-line.total{border-top:1px solid #dfd3c7;padding-top:18px;color:var(--brown);font-weight:700;font-size:15px}.empty-state{text-align:center;padding:65px 20px;background:#f8f2eb}.empty-state .heart{font-size:45px;color:#b9827d}.empty-state h2{font:500 27px 'Playfair Display',serif;color:var(--brown)}.checkout-layout{display:grid;grid-template-columns:1.1fr .9fr;gap:30px;align-items:start}.form-card,.order-summary{background:white;border:1px solid var(--line);padding:26px}.form-card h2,.order-summary h2{font:500 25px 'Playfair Display',serif;color:var(--brown);margin:0 0 22px}.form-grid{display:grid;grid-template-columns:1fr 1fr;gap:15px}.form-field{margin-bottom:15px}.form-field label{display:block;font-size:10px;color:#806e62;margin-bottom:7px}.form-field.full-width{grid-column:1/-1}.form-field textarea{min-height:90px;resize:vertical}.payment-box{background:#f8f2eb;padding:16px;margin:18px 0;font-size:11px;line-height:1.8}.payment-box label{display:flex;gap:9px;align-items:center}.payment-box input{width:auto}.notice{font-size:10px;line-height:1.7;color:var(--muted)}.success-wrap{text-align:center;padding:90px 15px;max-width:700px}.success-icon{width:70px;height:70px;border-radius:50%;display:grid;place-items:center;background:#dfe8d9;color:#4f704b;font-size:32px;margin:0 auto 25px}.success-wrap h1{font-size:44px}.order-ticket{background:#f8f2eb;padding:22px;text-align:left;margin:30px auto;max-width:520px;font-size:12px;line-height:2}.modal{display:none;position:fixed;inset:0;z-index:80;align-items:center;justify-content:center;padding:20px}.modal.open{display:flex}.modal-backdrop{position:absolute;inset:0;background:#281d19a8;backdrop-filter:blur(3px)}.product-modal-card{position:relative;background:#fffdf9;width:min(760px,100%);max-height:90vh;overflow:auto;padding:30px;z-index:1}.modal-close{position:absolute;right:15px;top:10px;border:0;background:none;font-size:30px;color:var(--brown)}.modal-product{display:grid;grid-template-columns:.8fr 1.2fr;gap:28px}.modal-product .product-visual{height:300px}.modal-product h2{font:500 29px 'Playfair Display',serif;color:var(--brown)}.modal-product p{font-size:12px;line-height:1.9;color:var(--muted)}.toast{position:fixed;bottom:24px;left:50%;transform:translate(-50%,20px);opacity:0;pointer-events:none;background:var(--brown);color:white;padding:13px 20px;font-size:11px;z-index:120;transition:.25s;box-shadow:var(--shadow)}.toast.show{opacity:1;transform:translate(-50%,0)}
+@media(max-width:950px){.product-grid{grid-template-columns:repeat(3,1fr)}.category-grid{grid-template-columns:repeat(3,1fr)}.footer-grid{grid-template-columns:repeat(2,1fr)}}@media(max-width:700px){.site-header{height:70px}.site-nav{display:none;position:absolute;top:70px;left:0;right:0;background:#fffdf9;padding:18px 6%;flex-direction:column;align-items:flex-start;border-bottom:1px solid var(--line)}.site-nav.open{display:flex}.menu-toggle{display:block}.hero{grid-template-columns:1fr;gap:35px;padding-block:48px}.hero-art{height:300px}.section{padding-block:52px}.section-head{align-items:flex-start;flex-direction:column}.category-grid{grid-template-columns:repeat(2,1fr)}.product-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}.product-visual{height:160px}.product-info{padding:11px}.product-info h3{font-size:14px}.product-actions{flex-direction:column}.shop-layout,.story,.cart-layout,.checkout-layout{grid-template-columns:1fr}.filter-panel{display:grid;grid-template-columns:1fr 1fr;gap:0 12px}.filter-panel h3,.filter-panel .full{grid-column:1/-1}.story{gap:30px}.story-art{height:280px}.value-grid{grid-template-columns:1fr}.cart-row{grid-template-columns:1fr auto;gap:12px}.cart-row>.remove-btn{grid-column:2}.cart-product{grid-column:1}.form-grid{grid-template-columns:1fr}.form-field.full-width{grid-column:auto}.modal-product{grid-template-columns:1fr}.modal-product .product-visual{height:220px}.page-hero h1{font-size:40px}.footer-grid{gap:25px 18px}.announcement span{display:block;margin:4px 0 0}}
+@media(max-width:420px){.product-grid{grid-template-columns:1fr 1fr}.product-visual{height:135px}.brand-mark{font-size:26px}.cart-link{padding:8px 10px}.filter-panel{grid-template-columns:1fr}}
+
+/* ================================
+   BOL - HƯỚNG DẪN MUA HÀNG
+================================ */
+
+.buy-guide {
+  background: #f7f0e6;
+  padding: 55px 0 75px;
+  color: #6b493d;
+}
+
+.buy-guide-container {
+  width: min(92%, 1180px);
+  margin: 0 auto;
+}
+
+.buy-guide-title {
+  text-align: center;
+  font-family: "Playfair Display", serif;
+  font-size: 36px;
+  font-weight: 700;
+  color: #6b493d;
+  margin: 0 0 45px;
+}
+
+.buy-guide-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 44px;
+}
+
+.buy-guide-item {
+  min-width: 0;
+}
+
+.step-number {
+  display: block;
+  font-family: "Playfair Display", serif;
+  font-size: 22px;
+  font-weight: 700;
+  color: #8b6a59;
+  margin-bottom: 12px;
+}
+
+.step-image {
+  width: 100%;
+  aspect-ratio: 1.35 / 1;
+  overflow: hidden;
+  margin-bottom: 20px;
+  background: #e9dfd2;
+}
+
+.step-image img {
+  width: 100%;
+  height: 100%;
+  display: block;
+  object-fit: cover;
+  transition: transform 0.4s ease;
+}
+
+.step-image:hover img {
+  transform: scale(1.04);
+}
+
+.buy-guide-item h3 {
+  font-family: "Playfair Display", serif;
+  font-size: 17px;
+  font-weight: 600;
+  color: #6b493d;
+  margin: 0 0 13px;
+}
+
+.buy-guide-item p {
+  font-family: "Be Vietnam Pro", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 1.8;
+  color: #806c61;
+  margin: 0;
+}
+
+/* RESPONSIVE - TABLET */
+
+@media (max-width: 768px) {
+  .buy-guide {
+    padding: 45px 0 55px;
+  }
+
+  .buy-guide-title {
+    font-size: 30px;
+    margin-bottom: 35px;
+  }
+
+  .buy-guide-grid {
+    gap: 25px;
+  }
+
+  .buy-guide-item h3 {
+    font-size: 15px;
+  }
+
+  .buy-guide-item p {
+    font-size: 11px;
+  }
+}
+
+/* RESPONSIVE - ĐIỆN THOẠI */
+
+@media (max-width: 600px) {
+  .buy-guide-grid {
+    grid-template-columns: 1fr;
+    gap: 35px;
+  }
+
+  .buy-guide-title {
+    font-size: 27px;
+  }
+
+  .step-number {
+    font-size: 20px;
+  }
+
+  .buy-guide-item h3 {
+    font-size: 18px;
+  }
+
+  .buy-guide-item p {
+    font-size: 13px;
+  }
+
+  .step-image {
+    aspect-ratio: 1.5 / 1;
+  }
+}
+
+/* ==================================
+   BOL - CONTACT PAGE
+================================== */
+
+.contact-hero {
+  background: #f7f0e6;
+  min-height: 610px;
+  padding: 95px 20px 85px;
+  color: #6b493d;
+}
+
+.contact-container {
+  width: 100%;
+  max-width: 950px;
+  margin: 0 auto;
+}
+
+.contact-hero h1 {
+  font-family: "Playfair Display", serif;
+  font-size: clamp(36px, 5vw, 54px);
+  font-weight: 700;
+  line-height: 1.2;
+  text-align: center;
+  color: #6b493d;
+  margin: 0 0 20px;
+}
+
+.contact-intro {
+  max-width: 700px;
+  margin: 0 auto 42px;
+  text-align: center;
+  font-family: "Be Vietnam Pro", sans-serif;
+  font-size: 16px;
+  line-height: 1.8;
+  color: #805f51;
+}
+
+.contact-form {
+  width: 100%;
+}
+
+.contact-name-row {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 18px;
+}
+
+.contact-field {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 16px;
+}
+
+.contact-field label {
+  font-family: "Be Vietnam Pro", sans-serif;
+  font-size: 11px;
+  font-weight: 500;
+  color: #805f51;
+  margin-bottom: 7px;
+}
+
+.contact-field input,
+.contact-field select,
+.contact-field textarea {
+  width: 100%;
+  box-sizing: border-box;
+  border: none;
+  border-bottom: 1px solid #b69a8b;
+  border-radius: 0;
+  background: transparent;
+  outline: none;
+  padding: 10px 9px;
+  font-family: "Be Vietnam Pro", sans-serif;
+  font-size: 13px;
+  color: #6b493d;
+  transition: border-color 0.25s ease;
+}
+
+.contact-field input {
+  height: 35px;
+}
+
+.contact-field select {
+  height: 43px;
+  cursor: pointer;
+}
+
+.contact-field textarea {
+  min-height: 75px;
+  resize: vertical;
+  line-height: 1.7;
+}
+
+.contact-field input::placeholder,
+.contact-field textarea::placeholder {
+  color: #a78d7e;
+  opacity: 1;
+}
+
+.contact-field input:focus,
+.contact-field select:focus,
+.contact-field textarea:focus {
+  border-bottom: 2px solid #8b5c4b;
+}
+
+.contact-submit {
+  width: 100%;
+  min-height: 48px;
+  border: none;
+  border-radius: 30px;
+  background: #bd484b;
+  color: #fff;
+  font-family: "Be Vietnam Pro", sans-serif;
+  font-size: 14px;
+  font-weight: 600;
+  cursor: pointer;
+  margin-top: 15px;
+  transition: background 0.25s ease, transform 0.25s ease;
+}
+
+.contact-submit:hover {
+  background: #a83d40;
+  transform: translateY(-2px);
+}
+
+.contact-success {
+  margin-top: 22px;
+  padding: 17px;
+  background: #e8eee3;
+  border-radius: 8px;
+  color: #526b4c;
+  font-size: 14px;
+  line-height: 1.7;
+  text-align: center;
+}
+
+/* TABLET */
+
+@media (max-width: 768px) {
+  .contact-hero {
+    padding: 75px 24px 65px;
+  }
+
+  .contact-intro {
+    font-size: 14px;
+  }
+}
+
+/* MOBILE */
+
+@media (max-width: 520px) {
+  .contact-hero {
+    padding: 55px 20px 55px;
+  }
+
+  .contact-hero h1 {
+    font-size: 34px;
+  }
+
+  .contact-intro {
+    font-size: 13px;
+    margin-bottom: 32px;
+  }
+
+  .contact-name-row {
+    grid-template-columns: 1fr;
+    gap: 0;
+  }
+
+  .contact-submit {
+    min-height: 46px;
+  }
+}
+
+/* =================================
+   BOL - VR PRODUCT PAGE
+================================= */
+
+.vr-container {
+  width: min(92%, 1180px);
+  margin: 0 auto;
+}
+
+.vr-hero {
+  background: #f7f0e6;
+  text-align: center;
+  padding: 65px 20px 40px;
+}
+
+.vr-hero h1 {
+  font-family: "Playfair Display", serif;
+  font-size: 42px;
+  color: #6b493d;
+  margin: 12px 0;
+}
+
+.vr-hero p {
+  color: #806c61;
+  line-height: 1.8;
+}
+
+.vr-selector {
+  background: #f7f0e6;
+  padding: 30px 0 45px;
+}
+
+.vr-selector-heading {
+  margin-bottom: 25px;
+}
+
+.vr-selector-heading h2,
+.vr-description h3 {
+  font-family: "Playfair Display", serif;
+  color: #6b493d;
+}
+
+.vr-selector-heading p {
+  color: #8b7165;
+  font-size: 14px;
+}
+
+.vr-selector-row {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+}
+
+.vr-field {
+  display: flex;
+  flex-direction: column;
+  gap: 9px;
+}
+
+.vr-field label,
+.vr-quantity label {
+  font-size: 13px;
+  color: #6b493d;
+  font-weight: 600;
+}
+
+.vr-field select,
+.vr-quantity input {
+  height: 46px;
+  border: 1px solid #d8c5b6;
+  background: #fffaf4;
+  color: #6b493d;
+  padding: 0 13px;
+  font-family: inherit;
+  outline: none;
+}
+
+.vr-field select:focus,
+.vr-quantity input:focus {
+  border-color: #8b5c4b;
+}
+
+/* VIEWER */
+
+.vr-viewer-section {
+  background: #f2e9de;
+  padding: 25px 0;
+}
+
+.vr-viewer {
+  position: relative;
+  min-height: 480px;
+  background: #e8ded2;
+  border: 1px solid #e0d1c2;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
+
+.vr-placeholder {
+  text-align: center;
+  padding: 30px;
+  color: #806c61;
+}
+
+.vr-placeholder-icon {
+  font-size: 65px;
+  color: #a88a77;
+}
+
+.vr-placeholder h3 {
+  font-family: "Playfair Display", serif;
+  font-size: 25px;
+  color: #6b493d;
+}
+
+.vr-placeholder p {
+  font-size: 14px;
+}
+
+#productModel {
+  width: 100%;
+  height: 480px;
+  background: transparent;
+}
+
+.vr-controls {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 15px;
+  margin-top: 14px;
+  color: #806c61;
+  font-size: 12px;
+}
+
+.vr-controls button {
+  background: transparent;
+  border: 1px solid #b99b8a;
+  color: #6b493d;
+  padding: 9px 17px;
+  cursor: pointer;
+}
+
+/* PRODUCT INFO */
+
+.vr-product-info {
+  background: #f7f0e6;
+  padding: 65px 0 75px;
+}
+
+.vr-info-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 25px;
+  border-bottom: 1px solid #d9c7b8;
+  padding-bottom: 25px;
+}
+
+.vr-info-content h2 {
+  font-family: "Playfair Display", serif;
+  font-size: 32px;
+  color: #6b493d;
+  margin: 10px 0;
+}
+
+#vrProductCategory {
+  color: #8b7165;
+  font-size: 13px;
+}
+
+.vr-price {
+  font-family: "Playfair Display", serif;
+  font-size: 25px;
+  font-weight: 700;
+  color: #9b5547;
+}
+
+.vr-description {
+  padding: 25px 0;
+}
+
+.vr-description h3 {
+  font-size: 21px;
+}
+
+.vr-description p {
+  color: #806c61;
+  font-size: 14px;
+  line-height: 1.9;
+  max-width: 850px;
+}
+
+.vr-buy-area {
+  display: flex;
+  align-items: end;
+  gap: 18px;
+  margin-top: 25px;
+}
+
+.vr-quantity {
+  display: flex;
+  flex-direction: column;
+  gap: 9px;
+}
+
+.vr-quantity input {
+  width: 100px;
+}
+
+.vr-buy-btn {
+  min-height: 46px;
+  padding: 0 35px;
+  background: #6b493d;
+  border: none;
+  border-radius: 3px;
+  color: white;
+  font-family: inherit;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background 0.25s;
+}
+
+.vr-buy-btn:hover {
+  background: #8b5c4b;
+}
+
+.vr-note {
+  margin-top: 25px;
+  font-size: 12px;
+  color: #9a7968;
+}
+
+/* MOBILE */
+
+@media (max-width: 700px) {
+  .vr-selector-row {
+    grid-template-columns: 1fr;
+  }
+
+  .vr-hero h1 {
+    font-size: 32px;
+  }
+
+  .vr-viewer {
+    min-height: 330px;
+  }
+
+  #productModel {
+    height: 330px;
+  }
+
+  .vr-info-content {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+
+  .vr-info-content h2 {
+    font-size: 27px;
+  }
+
+  .vr-buy-area {
+    align-items: stretch;
+    flex-direction: column;
+  }
+
+  .vr-quantity input {
+    width: 100%;
+  }
+
+  .vr-controls {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+}
+.vr-explore-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 12px;
+  color: #9b5547;
+  font-family: "Playfair Display", serif;
+  font-size: 34px;
+  font-weight: 700;
+  text-decoration: none;
+  transition: color 0.3s ease, gap 0.3s ease;
+}
+
+.vr-explore-link:hover {
+  color: #6b493d;
+  gap: 20px;
+}
+
+.vr-explore-link span {
+  font-family: sans-serif;
+  font-size: 30px;
+}
+
+@media (max-width: 600px) {
+  .vr-explore-link {
+    font-size: 25px;
+  }
+}
+
+/* ==========================================
+   MIMORE - BRAND IDENTITY
+   More Love, More Memories.
+========================================== */
+
+:root {
+  --cream: #F2CED8;
+  --paper: #FFF8FA;
+  --rose: #F288AF;
+  --sage: #F2ACC6;
+  --brown: #732424;
+  --ink: #542020;
+  --muted: #946B75;
+  --line: #EAC0CE;
+  --shadow: 0 18px 50px #73242418;
+
+  --brand-primary: #F26398;
+  --brand-secondary: #F288AF;
+  --brand-background: #F2CED8;
+  --brand-light: #F2ACC6;
+  --brand-dark: #732424;
+}
+
+/* NỀN VÀ CHỮ CHUNG */
+
+body {
+  background: var(--paper);
+  color: var(--ink);
+}
+
+/* THANH THÔNG BÁO */
+
+.announcement {
+  background: var(--brown);
+  color: #FFF8FA;
+}
+
+/* HEADER */
+
+.site-header {
+  background: #FFF8FAED;
+  border-bottom-color: var(--line);
+}
+
+.brand {
+  color: var(--brown);
+}
+
+.brand-mark {
+  border-bottom-color: var(--brand-primary);
+}
+
+.site-nav {
+  color: #8C5263;
+}
+
+.site-nav a:hover,
+.site-nav a.active {
+  color: var(--brand-primary);
+  border-color: var(--brand-primary);
+}
+
+.menu-toggle {
+  color: var(--brown);
+}
+
+/* GIỎ HÀNG TRÊN HEADER */
+
+.cart-link {
+  border-color: var(--line);
+  background: #FFF8FA;
+  color: var(--brown);
+}
+
+.cart-link b {
+  background: var(--brand-primary);
+  color: white;
+}
+
+/* TIÊU ĐỀ */
+
+.eyebrow {
+  color: var(--brand-primary);
+}
+
+.hero h1,
+.page-hero h1,
+.success-wrap h1,
+.section-head h2,
+.feature-inner h2,
+.story-copy h2,
+.values h2,
+.newsletter h2 {
+  color: var(--brown);
+}
+
+.hero h1 em,
+.feature-band em,
+.story-copy em {
+  color: var(--brand-primary);
+}
+
+/* NÚT BẤM */
+
+.primary {
+  background: var(--brand-primary);
+  color: white;
+}
+
+.primary:hover {
+  background: var(--brand-dark);
+}
+
+.outline {
+  border-color: var(--brand-primary);
+  color: var(--brown);
+}
+
+.btn:hover {
+  box-shadow: 0 5px 15px #F2639830;
+}
+
+/* HERO */
+
+.hero-art {
+  background: linear-gradient(
+    135deg,
+    #F2CED8,
+    #F288AF 55%,
+    #F2ACC6
+  );
+}
+
+.art-card {
+  color: var(--brown);
+}
+
+.art-card span {
+  color: var(--brand-primary);
+}
+
+/* DANH MỤC */
+
+.category-card {
+  background: #FFF0F4;
+  border-color: var(--line);
+}
+
+.category-symbol {
+  color: var(--brand-primary);
+}
+
+.category-card h3 {
+  color: var(--brown);
+}
+
+/* KHU VỰC NỔI BẬT */
+
+.feature-band {
+  background: var(--brand-secondary);
+  color: var(--brown);
+}
+
+/* SẢN PHẨM */
+
+.product-card {
+  background: #FFF8FA;
+  border-color: var(--line);
+}
+
+.product-visual {
+  background: linear-gradient(
+    145deg,
+    #F2CED8,
+    #F2ACC6
+  );
+}
+
+.product-visual:before {
+  background: #FFFFFF80;
+}
+
+.product-visual .symbol {
+  color: var(--brand-primary);
+}
+
+.product-badge {
+  background: #FFF8FA;
+  color: var(--brown);
+}
+
+.product-info h3 {
+  color: var(--brown);
+}
+
+.price {
+  color: var(--brand-dark);
+}
+
+.product-actions button {
+  border-color: var(--brand-primary);
+  background: var(--brand-primary);
+  color: white;
+}
+
+.product-actions .secondary {
+  background: transparent;
+  color: var(--brown);
+}
+
+/* NEWSLETTER */
+
+.newsletter {
+  background: #F2CED8;
+}
+
+/* FOOTER */
+
+.site-footer {
+  background: var(--brand-dark);
+  color: #FFF8FA;
+}
+
+.footer-grid p,
+.footer-grid a {
+  color: #F9DDE6;
+}
+
+.footer-grid a:hover {
+  color: white;
+}
+
+.footer-bottom {
+  border-top-color: #FFFFFF45;
+  color: #F9DDE6;
+}
+
+/* CÁC TRANG CON */
+
+.page-hero {
+  background: #F2CED8;
+}
+
+.page-hero h1 {
+  color: var(--brown);
+}
+
+.crumb {
+  color: #946B75;
+}
+
+/* BỘ LỌC CỬA HÀNG */
+
+.filter-panel {
+  background: #FFF0F4;
+  border-color: var(--line);
+}
+
+.filter-panel h3 {
+  color: var(--brown);
+}
+
+.filter-panel input:focus,
+.filter-panel select:focus,
+.form-field input:focus,
+.form-field textarea:focus {
+  border-color: var(--brand-primary);
+}
+
+/* CÂU CHUYỆN MIMORE */
+
+.story-art {
+  background: linear-gradient(
+    145deg,
+    #F2CED8,
+    #F288AF
+  );
+}
+
+.story-stamp {
+  background: #FFF8FA;
+  color: var(--brown);
+}
+
+.story-copy p:not(.eyebrow) {
+  color: #80535E;
+}
+
+.signature {
+  color: var(--brand-primary) !important;
+}
+
+/* GIÁ TRỊ THƯƠNG HIỆU */
+
+.values {
+  background: #FCEBF1;
+}
+
+.value-grid article {
+  background: #FFF8FA;
+}
+
+.value-grid span {
+  color: var(--brand-primary);
+}
+
+.value-grid h3 {
+  color: var(--brown);
+}
+
+/* GIỎ HÀNG */
+
+.cart-table {
+  background: #FFF8FA;
+  border-color: var(--line);
+}
+
+.cart-row {
+  border-bottom-color: var(--line);
+}
+
+.mini-visual {
+  background: #FCEBF1;
+  color: var(--brand-primary);
+}
+
+.cart-product b {
+  color: var(--brown);
+}
+
+.qty-control {
+  border-color: var(--line);
+}
+
+.qty-control button {
+  background: #FCEBF1;
+  color: var(--brown);
+}
+
+.remove-btn {
+  color: var(--brand-primary);
+}
+
+.summary-card {
+  background: #FFF0F4;
+  border-color: var(--line);
+}
+
+.summary-card h3 {
+  color: var(--brown);
+}
+
+.summary-line.total {
+  border-top-color: var(--line);
+  color: var(--brown);
+}
+
+.empty-state {
+  background: #FFF0F4;
+}
+
+.empty-state .heart {
+  color: var(--brand-primary);
+}
+
+.empty-state h2 {
+  color: var(--brown);
+}
+
+/* THANH TOÁN */
+
+.form-card,
+.order-summary {
+  background: #FFF8FA;
+  border-color: var(--line);
+}
+
+.form-card h2,
+.order-summary h2 {
+  color: var(--brown);
+}
+
+.payment-box {
+  background: #FFF0F4;
+}
+
+/* ĐẶT HÀNG THÀNH CÔNG */
+
+.success-icon {
+  background: #F2ACC6;
+  color: var(--brand-dark);
+}
+
+.order-ticket {
+  background: #FFF0F4;
+}
+
+/* POPUP SẢN PHẨM */
+
+.product-modal-card {
+  background: #FFF8FA;
+}
+
+.modal-close {
+  color: var(--brown);
+}
+
+.modal-product h2 {
+  color: var(--brown);
+}
+
+/* THÔNG BÁO */
+
+.toast {
+  background: var(--brand-dark);
+  color: white;
+}
+
+/* HƯỚNG DẪN MUA HÀNG */
+
+.buy-guide {
+  background: var(--brand-background);
+  color: var(--brand-dark);
+}
+
+.buy-guide-title {
+  color: var(--brand-dark);
+}
+
+.step-number {
+  color: var(--brand-primary);
+}
+
+.step-image {
+  background: #F2ACC6;
+}
+
+.buy-guide-item h3 {
+  color: var(--brand-dark);
+}
+
+.buy-guide-item p {
+  color: #80535E;
+}
+
+/* TRANG LIÊN HỆ */
+
+.contact-hero {
+  background: var(--brand-background);
+  color: var(--brand-dark);
+}
+
+.contact-hero h1 {
+  color: var(--brand-dark);
+}
+
+.contact-intro,
+.contact-field label {
+  color: #80535E;
+}
+
+.contact-field input,
+.contact-field select,
+.contact-field textarea {
+  color: var(--brand-dark);
+  border-bottom-color: #D99AAF;
+}
+
+.contact-field input:focus,
+.contact-field select:focus,
+.contact-field textarea:focus {
+  border-bottom-color: var(--brand-primary);
+}
+
+.contact-submit {
+  background: var(--brand-primary);
+  color: white;
+}
+
+.contact-submit:hover {
+  background: var(--brand-dark);
+}
+
+.contact-success {
+  background: #FCEBF1;
+  color: var(--brand-dark);
+}
+
+/* TRANG TRẢI NGHIỆM 3D / VR */
+
+.vr-hero,
+.vr-selector,
+.vr-product-info {
+  background: var(--brand-background);
+}
+
+.vr-hero h1,
+.vr-selector-heading h2,
+.vr-description h3,
+.vr-info-content h2 {
+  color: var(--brand-dark);
+}
+
+.vr-viewer-section {
+  background: #FCEBF1;
+}
+
+.vr-viewer {
+  background: #F2ACC6;
+  border-color: var(--line);
+}
+
+.vr-placeholder {
+  color: #80535E;
+}
+
+.vr-placeholder-icon {
+  color: var(--brand-primary);
+}
+
+.vr-placeholder h3 {
+  color: var(--brand-dark);
+}
+
+.vr-field select,
+.vr-quantity input {
+  border-color: var(--line);
+  background: #FFF8FA;
+  color: var(--brand-dark);
+}
+
+.vr-field select:focus,
+.vr-quantity input:focus {
+  border-color: var(--brand-primary);
+}
+
+.vr-controls {
+  color: #80535E;
+}
+
+.vr-controls button {
+  border-color: var(--brand-primary);
+  color: var(--brand-dark);
+}
+
+.vr-price {
+  color: var(--brand-primary);
+}
+
+.vr-description p {
+  color: #80535E;
+}
+
+.vr-buy-btn {
+  background: var(--brand-primary);
+  color: white;
+}
+
+.vr-buy-btn:hover {
+  background: var(--brand-dark);
+}
+
+.vr-note {
+  color: var(--brand-primary);
+}
+
+.vr-explore-link {
+  color: var(--brand-primary);
+}
+
+.vr-explore-link:hover {
+  color: var(--brand-dark);
+}
+
+/* MOBILE MENU */
+
+@media (max-width: 700px) {
+  .site-nav {
+    background: #FFF8FA;
+    border-bottom-color: var(--line);
+  }
+}
